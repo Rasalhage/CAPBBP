@@ -1,4 +1,4 @@
-# CAPBBP
+# CAPBBP File Repository
 Files hosted for Smogon CAP BBP.
 
 Use freely for any Pokemon-related hotlinking purposes.
