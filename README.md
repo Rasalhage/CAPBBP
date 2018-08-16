@@ -6,6 +6,8 @@ Use freely for any Pokemon-related hotlinking purposes.
 To access a sprite directly, go to  
 `https://raw.githubusercontent.com/Rasalhage/CAPBBP/master/MenuIcons/`[ sprite name here ]`.png`
 
+For the majority of Pokemon, their sprite name is simply their species. (`absol.png`)
+
 Formes specified with their initial: 
 * All megas, primals, and Alolan formes (`absol-m.png`, `necrozma-u.png`, `muk-a.png`)
 * All gender variants. (`meowstic-m.png`)
