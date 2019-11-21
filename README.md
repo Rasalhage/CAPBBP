@@ -9,7 +9,7 @@ To access a sprite directly, go to
 For the majority of Pokemon, their sprite name is simply their species. (`absol.png`)
 
 Formes specified with their initial: 
-* All megas, primals, and Alolan formes (`absol-m.png`, `necrozma-u.png`, `muk-a.png`)
+* All megas, primals, Alolan, and Galarian formes (`absol-m.png`, `mewtwo-x`, `necrozma-u.png`, `muk-a.png`, `ponyta-g`)
 * All gender variants. (`meowstic-m.png`)
 * Transformational variants. (`landorus-t.png`, `hoopa-u.png`, `rotom-w.png`)
 
@@ -24,6 +24,8 @@ Formes specified with their full name:
 * Unown's question-mark forme (`unown-mark.png`), as ? is invalid in filenames.
 
 Zygarde's 10% and Complete formes are specified numerically. (`zygarde-100.png`)
+
+Gigantimax formes are specified with the `-max` suffix. (`duraludon-max`)
 
 All menu icons for asymmetrical Pokemon have a `reversed` option. (`absol reversed.png`,  
 `pikachu-partner cap reversed.png`)
