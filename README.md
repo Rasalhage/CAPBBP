@@ -14,7 +14,7 @@ Formes specified with their initial:
 * Transformational variants. (`landorus-t.png`, `hoopa-u.png`, `rotom-w.png`)
 
 Formes specified with their full name:
-* All pikachu variants. (`pikachu-hoenn cap.png`, `pikachu-phd.png`)
+* All Pikachu variants. (`pikachu-hoenn cap.png`, `pikachu-phd.png`)
 * Castform transformations. (`castform-hail.png`)
 * Aegislash stances. (`aegislash-blade.png`) The default is Shield Stance forme.
 * Sawsbuck and Deerling seasons. (`sawsbuck-winter.png`) The default is Spring forme.
