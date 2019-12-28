@@ -1,0 +1,6151 @@
+Amnesia
+Charm
+Curse
+Endure
+Giga Drain
+Grass Whistle
+Grassy Terrain
+Ingrain
+Leaf Storm
+Light Screen
+Magical Leaf
+Nature Power
+Petal Dance
+Power Whip
+Safeguard
+Skull Bash
+Sludge
+Toxic
+}},
+ivysaur: {learnset: {
+}},
+venusaur: {learnset: {
+}},
+charmander: {learnset: {
+Air Cutter
+Ancient Power
+Beat Up
+Belly Drum
+Bite
+Counter
+Crunch
+Dragon Dance
+Dragon Pulse
+Dragon Rush
+Dragon Tail
+Focus Punch
+OutRage
+Rock Slide
+Swords Dance
+Wing Attack
+}},
+charmeleon: {learnset: {
+}},
+charizard: {learnset: {
+}},
+squirtle: {learnset: {
+Aqua Jet
+Aqua Ring
+Aura Sphere
+Brine
+Dragon Pulse
+Fake Out
+Flail
+Foresight
+Haze
+Life Dew
+Mirror Coat
+Mist
+Muddy Water
+Mud Sport
+Refresh
+Water Spout
+Yawn
+}},
+wartortle: {learnset: {
+}},
+blastoise: {learnset: {
+}},
+caterpie: {learnset: {
+}},
+metapod: {learnset: {
+}},
+butterfree: {learnset: {
+}},
+weedle: {learnset: {
+}},
+kakuna: {learnset: {
+}},
+beedrill: {learnset: {
+}},
+pidgey: {learnset: {
+Air Cutter
+Brave Bird
+Defog
+Feint Attack
+Foresight
+Pursuit
+Steel Wing
+Uproar
+}},
+pidgeotto: {learnset: {
+}},
+pidgeot: {learnset: {
+}},
+rattata: {learnset: {
+Counter
+Final Gambit
+Flame Wheel
+Fury Swipes
+Last Resort
+Me First
+Revenge
+Reversal
+Screech
+Swagger
+Uproar
+}},
+rattataalola: {learnset: {
+Counter
+Final Gambit
+Fury Swipes
+Me First
+Revenge
+Reversal
+Snatch
+Stockpile
+Swallow
+Switcheroo
+Uproar
+}},
+raticate: {learnset: {
+}},
+raticatealola: {learnset: {
+}},
+raticatealolatotem: {learnset: {
+}},
+spearow: {learnset: {
+Astonish
+False Swipe
+Feather Dance
+Feint Attack
+Quick Attack
+Razor Wind
+Scary Face
+Sky Attack
+Steel Wing
+Tri Attack
+Uproar
+Whirlwind
+}},
+fearow: {learnset: {
+}},
+ekans: {learnset: {
+Beat Up
+Disable
+Iron Tail
+Poison Fang
+Poison Tail
+Pursuit
+Scary Face
+Slam
+Snatch
+Spite
+Sucker Punch
+Switcheroo
+}},
+arbok: {learnset: {
+}},
+pichu: {learnset: {
+Bestow
+Bide
+Charge
+Disarming Voice
+Double Slap
+Electric Terrain
+Encore
+Endure
+Fake Out
+Flail
+Lucky Chant
+Present
+Reversal
+Thunder Punch
+Tickle
+Volt Tackle
+Wish
+}},
+pichuspikyeared: {learnset: {
+}},
+pikachu: {learnset: {
+}},
+pikachucosplay: {learnset: {
+}},
+pikachurockstar: {learnset: {
+}},
+pikachubelle: {learnset: {
+}},
+pikachupopstar: {learnset: {
+}},
+pikachuphd: {learnset: {
+}},
+pikachulibre: {learnset: {
+}},
+pikachuoriginal: {learnset: {
+}},
+pikachuhoenn: {learnset: {
+}},
+pikachusinnoh: {learnset: {
+}},
+pikachuunova: {learnset: {
+}},
+pikachukalos: {learnset: {
+}},
+pikachualola: {learnset: {
+}},
+pikachupartner: {learnset: {
+}},
+pikachustarter: {learnset: {
+}},
+pikachugmax: {learnset: {
+}},
+raichu: {learnset: {
+}},
+raichualola: {learnset: {
+}},
+sandshrew: {learnset: {
+Chip Away
+Counter
+Crush Claw
+Endure
+Flail
+Hone Claws
+Metal Claw
+Mud Shot
+Night Slash
+Rock Climb
+Rock Slide
+Rototiller
+Safeguard
+}},
+sandshrewalola: {learnset: {
+Amnesia
+Chip Away
+Counter
+Crush Claw
+Curse
+Endure
+Flail
+Hone Claws
+Icicle Crash
+Icicle Spear
+Night Slash
+}},
+sandslash: {learnset: {
+}},
+sandslashalola: {learnset: {
+}},
+nidoranf: {learnset: {
+Beat Up
+Charm
+Chip Away
+Counter
+Disable
+Endure
+Focus Energy
+Iron Tail
+Poison Tail
+Pursuit
+Skull Bash
+Supersonic
+Take Down
+Venom Drench
+}},
+nidorina: {learnset: {
+}},
+nidoqueen: {learnset: {
+}},
+nidoranm: {learnset: {
+Amnesia
+Beat Up
+Chip Away
+Confusion
+Counter
+Disable
+Endure
+Head Smash
+Iron Tail
+Poison Tail
+Sucker Punch
+Supersonic
+Take Down
+Venom Drench
+}},
+nidorino: {learnset: {
+}},
+nidoking: {learnset: {
+}},
+cleffa: {learnset: {
+Amnesia
+Aromatherapy
+Belly Drum
+Covet
+Fake Tears
+Heal Pulse
+Metronome
+Mimic
+Misty Terrain
+Present
+Stored Power
+Substitute
+Tickle
+Wish
+}},
+clefairy: {learnset: {
+}},
+clefable: {learnset: {
+}},
+vulpix: {learnset: {
+Energy Ball
+Flail
+Flame Charge
+Flare Blitz
+Heat Wave
+Howl
+Hypnosis
+Memento
+Power Swap
+Psych Up
+Secret Power
+Tail Slap
+}},
+vulpixalola: {learnset: {
+Agility
+Charm
+Encore
+Flail
+Freeze-Dry
+Howl
+Hypnosis
+Moonblast
+Power Swap
+Secret Power
+Tail Slap
+}},
+ninetales: {learnset: {
+}},
+ninetalesalola: {learnset: {
+}},
+igglybuff: {learnset: {
+Captivate
+Covet
+Fake Tears
+Feint Attack
+Gravity
+Heal Pulse
+Last Resort
+Misty Terrain
+Perish Song
+Present
+Punishment
+Sleep Talk
+Wish
+}},
+jigglypuff: {learnset: {
+}},
+wigglytuff: {learnset: {
+}},
+zubat: {learnset: {
+Brave Bird
+Curse
+Defog
+Feint Attack
+Giga Drain
+Gust
+Hypnosis
+Nasty Plot
+Pursuit
+Quick Attack
+Steel Wing
+Venom Drench
+Whirlwind
+Zen Headbutt
+}},
+golbat: {learnset: {
+}},
+crobat: {learnset: {
+}},
+oddish: {learnset: {
+After You
+Charm
+Flail
+Ingrain
+Leech Seed
+Nature Power
+Razor Leaf
+Secret Power
+Strength Sap
+Swords Dance
+Synthesis
+Teeter Dance
+Tickle
+}},
+gloom: {learnset: {
+}},
+vileplume: {learnset: {
+}},
+bellossom: {learnset: {
+}},
+paras: {learnset: {
+Agility
+Bug Bite
+Counter
+Cross Poison
+Endure
+False Swipe
+Fell Stinger
+Flail
+Grassy Terrain
+Leech Seed
+Light Screen
+Metal Claw
+Natural Gift
+Psybeam
+Pursuit
+Rototiller
+Screech
+Sweet Scent
+Wide Guard
+}},
+parasect: {learnset: {
+}},
+venonat: {learnset: {
+Agility
+Baton Pass
+Bug Bite
+Giga Drain
+Morning Sun
+Rage Powder
+Screech
+Secret Power
+Skill Swap
+Toxic Spikes
+}},
+venomoth: {learnset: {
+}},
+diglett: {learnset: {
+Ancient Power
+Beat Up
+Endure
+Feint Attack
+Final Gambit
+Headbutt
+Hone Claws
+Memento
+Pursuit
+Reversal
+Rock Slide
+Screech
+Uproar
+}},
+diglettalola: {learnset: {
+Ancient Power
+Beat Up
+Endure
+Feint Attack
+Final Gambit
+Headbutt
+Hone Claws
+Memento
+Metal Sound
+Pursuit
+Reversal
+Thrash
+}},
+dugtrio: {learnset: {
+}},
+dugtrioalola: {learnset: {
+}},
+meowth: {learnset: {
+Amnesia
+Assist
+Charm
+Covet
+Flail
+Foul Play
+Hypnosis
+Iron Tail
+Last Resort
+Odor Sleuth
+Psych Up
+Punishment
+Snatch
+Spite
+Tail Whip
+}},
+meowthalola: {learnset: {
+Amnesia
+Assist
+Charm
+Covet
+Flail
+Flatter
+Foul Play
+Hypnosis
+Parting Shot
+Punishment
+Snatch
+Spite
+}},
+meowthgalar: {learnset: {
+Covet
+Curse
+Double-Edge
+Flail
+Night Slash
+Spite
+}},
+meowthgmax: {learnset: {
+}},
+persian: {learnset: {
+}},
+persianalola: {learnset: {
+}},
+perrserker: {learnset: {
+}},
+psyduck: {learnset: {
+Clear Smog
+Confuse Ray
+Cross Chop
+Encore
+Foresight
+Future Sight
+Hypnosis
+Light Screen
+Mud Bomb
+Psybeam
+Psychic
+Refresh
+Secret Power
+Simple Beam
+Sleep Talk
+Synchronoise
+Yawn
+}},
+golduck: {learnset: {
+}},
+mankey: {learnset: {
+Beat Up
+Counter
+Encore
+Focus Punch
+Foresight
+Meditate
+Night Slash
+Power Trip
+Revenge
+Reversal
+Rock Slide
+Sleep Talk
+Smelling Salts
+}},
+primeape: {learnset: {
+}},
+growlithe: {learnset: {
+Body Slam
+Burn Up
+Close Combat
+Covet
+Double-Edge
+Double Kick
+Fire Spin
+Iron Tail
+Morning Sun
+Safeguard
+Thrash
+}},
+arcanine: {learnset: {
+}},
+poliwag: {learnset: {
+Encore
+Endeavor
+Endure
+Haze
+Ice Ball
+Mind Reader
+Mist
+Refresh
+Splash
+Water Pulse
+}},
+poliwhirl: {learnset: {
+}},
+poliwrath: {learnset: {
+}},
+politoed: {learnset: {
+}},
+abra: {learnset: {
+Ally Switch
+Barrier
+Encore
+Fire Punch
+Guard Split
+Guard Swap
+Ice Punch
+Knock Off
+Power Trick
+Psychic Terrain
+Psycho Shift
+Skill Swap
+Thunder Punch
+}},
+kadabra: {learnset: {
+}},
+alakazam: {learnset: {
+}},
+machop: {learnset: {
+Bullet Punch
+Close Combat
+Counter
+Encore
+Fire Punch
+Heavy Slam
+Ice Punch
+Light Screen
+Meditate
+Power Trick
+Quick Guard
+Rock Slide
+Rolling Kick
+Smelling Salts
+Thunder Punch
+Tickle
+}},
+machoke: {learnset: {
+}},
+machamp: {learnset: {
+}},
+bellsprout: {learnset: {
+Acid Spray
+Belch
+Bullet Seed
+Clear Smog
+Encore
+Giga Drain
+Ingrain
+Leech Life
+Magical Leaf
+Natural Gift
+Power Whip
+Reflect
+Strength Sap
+Swords Dance
+Synthesis
+Tickle
+Weather Ball
+Worry Seed
+}},
+weepinbell: {learnset: {
+}},
+victreebel: {learnset: {
+}},
+tentacool: {learnset: {
+Acupressure
+Aqua Ring
+Aurora Beam
+Bubble
+Confuse Ray
+Haze
+Knock Off
+Mirror Coat
+Muddy Water
+Rapid Spin
+Safeguard
+Tickle
+}},
+tentacruel: {learnset: {
+}},
+geodude: {learnset: {
+Autotomize
+Block
+Curse
+Endure
+Flail
+Focus Punch
+Hammer Arm
+Mega Punch
+Rock Climb
+Rock Slide
+Wide Guard
+}},
+geodudealola: {learnset: {
+Autotomize
+Block
+Counter
+Curse
+Endure
+Flail
+Magnet Rise
+Rock Climb
+Screech
+Wide Guard
+}},
+graveler: {learnset: {
+}},
+graveleralola: {learnset: {
+}},
+golem: {learnset: {
+}},
+golemalola: {learnset: {
+}},
+ponyta: {learnset: {
+Ally Switch
+Captivate
+Charm
+Double-Edge
+Double Kick
+High Horsepower
+Horn Drill
+Hypnosis
+Low Kick
+Morning Sun
+Thrash
+}},
+ponytagalar: {learnset: {
+Double-Edge
+Double Kick
+Horn Drill
+Hypnosis
+Morning Sun
+Thrash
+}},
+rapidash: {learnset: {
+}},
+rapidashgalar: {learnset: {
+}},
+slowpoke: {learnset: {
+Belch
+Belly Drum
+Block
+Future Sight
+Me First
+Mud Sport
+Safeguard
+Sleep Talk
+Snore
+Stomp
+Wonder Room
+}},
+slowbro: {learnset: {
+}},
+slowking: {learnset: {
+}},
+magnemite: {learnset: {
+}},
+magneton: {learnset: {
+}},
+magnezone: {learnset: {
+}},
+farfetchd: {learnset: {
+Covet
+Curse
+Feather Dance
+Final Gambit
+First Impression
+Flail
+Foresight
+Gust
+Mirror Move
+Mud-Slap
+Quick Attack
+Revenge
+Roost
+Simple Beam
+Sky Attack
+Steel Wing
+Trump Card
+}},
+farfetchdgalar: {learnset: {
+Counter
+Covet
+Curse
+Double-Edge
+Feint
+Flail
+Night Slash
+Quick Attack
+Quick Guard
+Simple Beam
+Sky Attack
+}},
+sirfetchd: {learnset: {
+}},
+doduo: {learnset: {
+Assurance
+Brave Bird
+Feint Attack
+Flail
+Haze
+Mirror Move
+Natural Gift
+Supersonic
+}},
+dodrio: {learnset: {
+}},
+seel: {learnset: {
+Belch
+Disable
+Entrainment
+Fake Out
+Horn Drill
+Icicle Spear
+Iron Tail
+Lick
+Perish Song
+Signal Beam
+Slam
+Sleep Talk
+Spit Up
+Stockpile
+Swallow
+Water Pulse
+}},
+dewgong: {learnset: {
+}},
+grimer: {learnset: {
+Acid Spray
+Curse
+Explosion
+Haze
+Imprison
+Lick
+Mean Look
+Power-Up Punch
+Scary Face
+Shadow Punch
+Shadow Sneak
+Spit Up
+Stockpile
+Swallow
+}},
+grimeralola: {learnset: {
+Assurance
+Clear Smog
+Curse
+Imprison
+Mean Look
+Power-Up Punch
+Pursuit
+Scary Face
+Shadow Sneak
+Spite
+Spit Up
+Stockpile
+Swallow
+}},
+muk: {learnset: {
+}},
+mukalola: {learnset: {
+}},
+shellder: {learnset: {
+Aqua Ring
+Avalanche
+Barrier
+Bubble Beam
+Life Dew
+Mud Shot
+Rapid Spin
+Rock Blast
+Screech
+Take Down
+Twineedle
+Water Pulse
+}},
+cloyster: {learnset: {
+}},
+gastly: {learnset: {
+Astonish
+Clear Smog
+Disable
+Explosion
+Fire Punch
+Grudge
+Haze
+Ice Punch
+Perish Song
+Psywave
+Reflect Type
+Scary Face
+Smog
+Thunder Punch
+Toxic
+Will-O-Wisp
+}},
+haunter: {learnset: {
+}},
+gengar: {learnset: {
+}},
+onix: {learnset: {
+Block
+Defense Curl
+Dragon Tail
+Explosion
+Flail
+Head Smash
+Heavy Slam
+Rock Blast
+Rock Climb
+Rollout
+Rototiller
+Wide Guard
+}},
+steelix: {learnset: {
+}},
+drowzee: {learnset: {
+Assist
+Barrier
+Fire Punch
+Flatter
+Guard Swap
+Ice Punch
+Power Split
+Psychic Terrain
+Psycho Cut
+Role Play
+Secret Power
+Skill Swap
+Thunder Punch
+}},
+hypno: {learnset: {
+}},
+krabby: {learnset: {
+Agility
+Ally Switch
+Amnesia
+Ancient Power
+Bide
+Chip Away
+Dig
+Endure
+Hammer Arm
+Haze
+Knock Off
+Night Slash
+Slash
+Tickle
+}},
+kingler: {learnset: {
+}},
+voltorb: {learnset: {
+}},
+electrode: {learnset: {
+}},
+exeggcute: {learnset: {
+Ancient Power
+Block
+Curse
+Giga Drain
+Grassy Terrain
+Ingrain
+Leaf Storm
+Lucky Chant
+Moonlight
+Nature Power
+Power Swap
+Psych Up
+Skill Swap
+Synthesis
+}},
+exeggutor: {learnset: {
+}},
+exeggutoralola: {learnset: {
+}},
+cubone: {learnset: {
+Ancient Power
+Belly Drum
+Chip Away
+Curse
+Detect
+Double Kick
+Endure
+Iron Head
+Perish Song
+Rock Slide
+Screech
+Skull Bash
+Swords Dance
+}},
+marowak: {learnset: {
+}},
+marowakalola: {learnset: {
+}},
+marowakalolatotem: {learnset: {
+}},
+tyrogue: {learnset: {
+Bullet Punch
+Counter
+Endure
+Feint
+High Jump Kick
+Mach Punch
+Mind Reader
+Pursuit
+Rapid Spin
+Vacuum Wave
+}},
+hitmonlee: {learnset: {
+}},
+hitmonchan: {learnset: {
+}},
+hitmontop: {learnset: {
+}},
+lickitung: {learnset: {
+Amnesia
+Belch
+Belly Drum
+Body Slam
+Curse
+Hammer Arm
+Magnitude
+Muddy Water
+Sleep Talk
+Smelling Salts
+Snore
+Substitute
+Thrash
+Zen Headbutt
+}},
+lickilicky: {learnset: {
+}},
+koffing: {learnset: {
+Curse
+Grudge
+Pain Split
+Psybeam
+Psywave
+Screech
+Spite
+Spit Up
+Stockpile
+Swallow
+Toxic Spikes
+Venom Drench
+Will-O-Wisp
+}},
+weezing: {learnset: {
+}},
+weezinggalar: {learnset: {
+}},
+rhyhorn: {learnset: {
+Counter
+Crunch
+Crush Claw
+Curse
+Dragon Rush
+Fire Fang
+Guard Split
+Ice Fang
+Iron Tail
+Magnitude
+Metal Burst
+Reversal
+Rock Climb
+Rock Polish
+Rock Slide
+Rototiller
+Skull Bash
+Swords Dance
+Thunder Fang
+}},
+rhydon: {learnset: {
+}},
+rhyperior: {learnset: {
+}},
+happiny: {learnset: {
+Aromatherapy
+Counter
+Endure
+Gravity
+Heal Bell
+Helping Hand
+Last Resort
+Metronome
+Mud Bomb
+Natural Gift
+Present
+Substitute
+}},
+chansey: {learnset: {
+Aromatherapy
+Counter
+Endure
+Gravity
+Heal Bell
+Helping Hand
+Metronome
+Mud Bomb
+Natural Gift
+Present
+Seismic Toss
+Substitute
+}},
+blissey: {learnset: {
+}},
+tangela: {learnset: {
+Amnesia
+Confusion
+Endeavor
+Flail
+Leaf Storm
+Leech Seed
+Nature Power
+Power Swap
+Rage Powder
+Reflect
+Wake-Up Slap
+}},
+tangrowth: {learnset: {
+}},
+kangaskhan: {learnset: {
+Circle Throw
+Counter
+Crush Claw
+Disable
+Double-Edge
+Endeavor
+Focus Energy
+Focus Punch
+Foresight
+Hammer Arm
+Safeguard
+Stomp
+Substitute
+Trump Card
+Uproar
+}},
+horsea: {learnset: {
+Aurora Beam
+Clear Smog
+Disable
+Dragon Breath
+Dragon Rage
+Flail
+Muddy Water
+Octazooka
+OutRage
+Razor Wind
+Signal Beam
+Splash
+Water Pulse
+}},
+seadra: {learnset: {
+}},
+kingdra: {learnset: {
+}},
+goldeen: {learnset: {
+Acupressure
+Aqua Tail
+Body Slam
+Haze
+Hydro Pump
+Mud Shot
+Mud-Slap
+Mud Sport
+Psybeam
+Signal Beam
+Skull Bash
+Sleep Talk
+}},
+seaking: {learnset: {
+}},
+staryu: {learnset: {
+}},
+starmie: {learnset: {
+}},
+mimejr: {learnset: {
+Charm
+Confuse Ray
+Fake Out
+Future Sight
+Healing Wish
+Hypnosis
+Icy Wind
+Magic Room
+Nasty Plot
+Power Split
+Psychic Terrain
+Psych Up
+Wake-Up Slap
+}},
+mrmime: {learnset: {
+Confuse Ray
+Fake Out
+Future Sight
+Hypnosis
+Icy Wind
+Magic Room
+Nasty Plot
+Power Split
+Psychic Terrain
+Psych Up
+Tickle
+Wake-Up Slap
+}},
+mrmimegalar: {learnset: {
+Confuse Ray
+Fake Out
+Power Split
+Tickle
+}},
+mrrime: {learnset: {
+}},
+scyther: {learnset: {
+Baton Pass
+Bug Buzz
+Counter
+Defog
+Endure
+Light Screen
+Quick Guard
+Reversal
+Safeguard
+Silver Wind
+Steel Wing
+}},
+scizor: {learnset: {
+}},
+smoochum: {learnset: {
+Captivate
+Fake Out
+Ice Punch
+Meditate
+Miracle Eye
+Nasty Plot
+Psych Up
+Wake-Up Slap
+Wish
+}},
+jynx: {learnset: {
+}},
+elekid: {learnset: {
+Barrier
+Cross Chop
+Dynamic Punch
+Feint
+Fire Punch
+Focus Punch
+Hammer Arm
+Ice Punch
+Karate Chop
+Meditate
+Rolling Kick
+}},
+electabuzz: {learnset: {
+}},
+electivire: {learnset: {
+}},
+magby: {learnset: {
+Barrier
+Belch
+Belly Drum
+Cross Chop
+Dynamic Punch
+Flare Blitz
+Focus Energy
+Iron Tail
+Karate Chop
+Mach Punch
+Mega Punch
+Power Swap
+Screech
+Thunder Punch
+}},
+magmar: {learnset: {
+}},
+magmortar: {learnset: {
+}},
+pinsir: {learnset: {
+Bug Bite
+Close Combat
+False Swipe
+Feint
+Feint Attack
+Flail
+Fury Attack
+Me First
+Quick Attack
+}},
+tauros: {learnset: {
+}},
+magikarp: {learnset: {
+}},
+gyarados: {learnset: {
+}},
+lapras: {learnset: {
+Ancient Power
+Avalanche
+Curse
+Dragon Dance
+Dragon Pulse
+Fissure
+Foresight
+Freeze-Dry
+Future Sight
+Horn Drill
+Refresh
+Sleep Talk
+Sparkling Aria
+Substitute
+Tickle
+Whirlpool
+}},
+ditto: {learnset: {
+}},
+eevee: {learnset: {
+Captivate
+Curse
+Detect
+Double Kick
+Endure
+Fake Tears
+Flail
+Mud-Slap
+Natural Gift
+Stored Power
+Synchronoise
+Tickle
+Wish
+Yawn
+}},
+eeveestarter: {learnset: {
+}},
+eeveegmax: {learnset: {
+}},
+vaporeon: {learnset: {
+}},
+jolteon: {learnset: {
+}},
+flareon: {learnset: {
+}},
+espeon: {learnset: {
+}},
+umbreon: {learnset: {
+}},
+leafeon: {learnset: {
+}},
+glaceon: {learnset: {
+}},
+porygon: {learnset: {
+}},
+porygon2: {learnset: {
+}},
+porygonz: {learnset: {
+}},
+omanyte: {learnset: {
+Aurora Beam
+Bide
+Bubble Beam
+Haze
+Knock Off
+Muddy Water
+Reflect Type
+Rock Slide
+Slam
+Spikes
+Supersonic
+Toxic Spikes
+Water Pulse
+Whirlpool
+Wring Out
+}},
+omastar: {learnset: {
+}},
+kabuto: {learnset: {
+Aurora Beam
+Bubble Beam
+Confuse Ray
+Dig
+Flail
+Foresight
+Giga Drain
+Icy Wind
+Knock Off
+Rapid Spin
+Screech
+Take Down
+}},
+kabutops: {learnset: {
+}},
+aerodactyl: {learnset: {
+Assurance
+Curse
+Dragon Breath
+Foresight
+Pursuit
+Roost
+Steel Wing
+Tailwind
+Whirlwind
+Wide Guard
+}},
+munchlax: {learnset: {
+After You
+Belch
+Charm
+Counter
+Curse
+Double-Edge
+Fissure
+Pursuit
+Self-Destruct
+Substitute
+Whirlwind
+Zen Headbutt
+}},
+snorlax: {learnset: {
+After You
+Charm
+Counter
+Curse
+Double-Edge
+Fissure
+Gastro Acid
+Natural Gift
+Power-Up Punch
+Pursuit
+Substitute
+Whirlwind
+}},
+articuno: {learnset: {
+}},
+zapdos: {learnset: {
+}},
+moltres: {learnset: {
+}},
+dratini: {learnset: {
+Aqua Jet
+Dragon Breath
+Dragon Pulse
+Extreme Speed
+Haze
+Iron Tail
+Light Screen
+Mist
+Supersonic
+Water Pulse
+}},
+dragonair: {learnset: {
+}},
+dragonite: {learnset: {
+}},
+mewtwo: {learnset: {
+}},
+mew: {learnset: {
+}},
+chikorita: {learnset: {
+Ancient Power
+Counter
+Flail
+Grass Whistle
+Grassy Terrain
+Heal Pulse
+Ingrain
+Leaf Storm
+Leech Seed
+Nature Power
+Refresh
+Vine Whip
+Wring Out
+}},
+bayleef: {learnset: {
+}},
+meganium: {learnset: {
+}},
+cyndaquil: {learnset: {
+Covet
+Crush Claw
+Double Kick
+Extrasensory
+Flame Burst
+Flare Blitz
+Foresight
+Fury Swipes
+Howl
+Nature Power
+Reversal
+Thrash
+}},
+quilava: {learnset: {
+}},
+typhlosion: {learnset: {
+}},
+totodile: {learnset: {
+Ancient Power
+Aqua Jet
+Block
+Dragon Claw
+Dragon Dance
+Fake Tears
+Flatter
+Ice Punch
+Metal Claw
+Mud Sport
+Rock Slide
+Water Pulse
+Water Sport
+}},
+croconaw: {learnset: {
+}},
+feraligatr: {learnset: {
+}},
+sentret: {learnset: {
+Assist
+Baby-Doll Eyes
+Captivate
+Charm
+Covet
+Double-Edge
+Focus Energy
+Iron Tail
+Last Resort
+Natural Gift
+Pursuit
+Reversal
+Slash
+Substitute
+Trick
+}},
+furret: {learnset: {
+}},
+hoothoot: {learnset: {
+Agility
+Defog
+Feather Dance
+Feint Attack
+Hurricane
+Mean Look
+Mirror Move
+Night Shade
+Sky Attack
+Supersonic
+Whirlwind
+Wing Attack
+}},
+noctowl: {learnset: {
+}},
+ledyba: {learnset: {
+Bide
+Bug Bite
+Counter
+Dizzy Punch
+Drain Punch
+Encore
+Endure
+Focus Punch
+Knock Off
+Psybeam
+Screech
+Tailwind
+}},
+ledian: {learnset: {
+}},
+spinarak: {learnset: {
+Baton Pass
+Disable
+Electroweb
+Lunge
+Megahorn
+Night Slash
+Psybeam
+Pursuit
+Rage Powder
+Signal Beam
+Sonic Boom
+Toxic Spikes
+Twineedle
+}},
+ariados: {learnset: {
+}},
+chinchou: {learnset: {
+Agility
+Amnesia
+Brine
+Mist
+Psybeam
+Screech
+Shock Wave
+Soak
+Water Pulse
+Whirlpool
+}},
+lanturn: {learnset: {
+}},
+togepi: {learnset: {
+Aerial Ace
+Extrasensory
+Foresight
+Future Sight
+Lucky Chant
+Mirror Move
+Morning Sun
+Nasty Plot
+Peck
+Present
+Psycho Shift
+Psych Up
+Secret Power
+Stored Power
+Substitute
+}},
+togetic: {learnset: {
+}},
+togekiss: {learnset: {
+}},
+natu: {learnset: {
+Ally Switch
+Drill Peck
+Feather Dance
+Feint Attack
+Haze
+Psych Up
+Quick Attack
+Refresh
+Roost
+Simple Beam
+Skill Swap
+Steel Wing
+Sucker Punch
+Synchronoise
+Zen Headbutt
+}},
+xatu: {learnset: {
+}},
+mareep: {learnset: {
+After You
+Agility
+Body Slam
+Eerie Impulse
+Electric Terrain
+Flatter
+Iron Tail
+Odor Sleuth
+Reflect
+Safeguard
+Sand Attack
+Screech
+}},
+flaaffy: {learnset: {
+}},
+ampharos: {learnset: {
+}},
+azurill: {learnset: {
+Body Slam
+Camouflage
+Copycat
+Encore
+Fake Tears
+Muddy Water
+Refresh
+Sing
+Soak
+Tickle
+}},
+marill: {learnset: {
+Amnesia
+Aqua Jet
+Belly Drum
+Body Slam
+Camouflage
+Future Sight
+Light Screen
+Muddy Water
+Perish Song
+Present
+Refresh
+Substitute
+Supersonic
+}},
+azumarill: {learnset: {
+}},
+bonsly: {learnset: {
+Curse
+Defense Curl
+Endure
+Harden
+Headbutt
+Rock Polish
+Rollout
+Sand Tomb
+Self-Destruct
+Stealth Rock
+}},
+sudowoodo: {learnset: {
+Curse
+Defense Curl
+Endure
+Harden
+Headbutt
+Rock Polish
+Rollout
+Sand Tomb
+Self-Destruct
+Stealth Rock
+}},
+hoppip: {learnset: {
+Amnesia
+Aromatherapy
+Confusion
+Cotton Guard
+Double-Edge
+Encore
+Endure
+Grassy Terrain
+Helping Hand
+Psych Up
+Reflect
+Seed Bomb
+Strength Sap
+}},
+skiploom: {learnset: {
+}},
+jumpluff: {learnset: {
+}},
+aipom: {learnset: {
+Beat Up
+Bounce
+Counter
+Covet
+Double Slap
+Fake Out
+Pursuit
+Quick Guard
+Revenge
+Slam
+Spite
+Switcheroo
+Tail Slap
+}},
+ambipom: {learnset: {
+}},
+sunkern: {learnset: {
+Bide
+Curse
+Encore
+Endure
+Grassy Terrain
+Helping Hand
+Morning Sun
+Nature Power
+Sweet Scent
+}},
+sunflora: {learnset: {
+}},
+yanma: {learnset: {
+Double-Edge
+Feint
+Feint Attack
+Leech Life
+Reversal
+Secret Power
+Signal Beam
+Silver Wind
+Whirlwind
+}},
+yanmega: {learnset: {
+}},
+wooper: {learnset: {
+Acid Spray
+After You
+Ancient Power
+Body Slam
+Counter
+Curse
+Double Kick
+Eerie Impulse
+Encore
+Guard Swap
+Power-Up Punch
+Recover
+Safeguard
+Sleep Talk
+Spit Up
+Stockpile
+Swallow
+}},
+quagsire: {learnset: {
+}},
+murkrow: {learnset: {
+Brave Bird
+Confuse Ray
+Drill Peck
+Feather Dance
+Flatter
+Mirror Move
+Perish Song
+Psycho Shift
+Roost
+Screech
+Sky Attack
+Whirlwind
+}},
+honchkrow: {learnset: {
+}},
+misdreavus: {learnset: {
+Curse
+Destiny Bond
+Imprison
+Me First
+Memento
+Nasty Plot
+Ominous Wind
+Psych Up
+Screech
+Shadow Sneak
+Skill Swap
+Sucker Punch
+Wonder Room
+}},
+mismagius: {learnset: {
+}},
+unown: {learnset: {
+}},
+wynaut: {learnset: {
+}},
+wobbuffet: {learnset: {
+}},
+girafarig: {learnset: {
+Amnesia
+Beat Up
+Double Kick
+Foresight
+Future Sight
+Magic Coat
+Mean Look
+Mirror Coat
+Psychic Fangs
+Psychic Terrain
+Psych Up
+Razor Wind
+Secret Power
+Skill Swap
+Take Down
+Wish
+}},
+pineco: {learnset: {
+Counter
+Endure
+Flail
+Pin Missile
+Power Trick
+Reflect
+Revenge
+Sand Tomb
+Stealth Rock
+Swift
+Toxic Spikes
+}},
+forretress: {learnset: {
+}},
+dunsparce: {learnset: {
+Agility
+Astonish
+Bide
+Bite
+Curse
+Headbutt
+Hex
+Magic Coat
+Rock Slide
+Secret Power
+Sleep Talk
+Snore
+Trump Card
+}},
+gligar: {learnset: {
+Agility
+Baton Pass
+Counter
+Cross Poison
+Double-Edge
+Feint
+Metal Claw
+Night Slash
+Poison Tail
+Power Trick
+Razor Wind
+Rock Climb
+Sand Tomb
+Wing Attack
+}},
+gliscor: {learnset: {
+}},
+snubbull: {learnset: {
+Close Combat
+Double-Edge
+Fake Tears
+Feint Attack
+Focus Punch
+Heal Bell
+Metronome
+Mimic
+Present
+Reflect
+Smelling Salts
+Snore
+}},
+granbull: {learnset: {
+}},
+qwilfish: {learnset: {
+Acid Spray
+Aqua Jet
+Astonish
+Bubble Beam
+Flail
+Haze
+Signal Beam
+Supersonic
+Water Pulse
+}},
+shuckle: {learnset: {
+Acid
+Acupressure
+Covet
+Defense Curl
+Final Gambit
+Helping Hand
+Infestation
+Knock Off
+Mud-Slap
+Rock Blast
+Sand Tomb
+Sweet Scent
+Toxic
+}},
+heracross: {learnset: {
+Bide
+Double-Edge
+False Swipe
+Flail
+Focus Punch
+Harden
+Pursuit
+Revenge
+Rock Blast
+Seismic Toss
+}},
+sneasel: {learnset: {
+Assist
+Avalanche
+Bite
+Counter
+Crush Claw
+Double Hit
+Fake Out
+Feint
+Foresight
+Ice Punch
+Icicle Crash
+Pursuit
+Reflect
+Spite
+Throat Chop
+}},
+weavile: {learnset: {
+}},
+teddiursa: {learnset: {
+Belly Drum
+Chip Away
+Close Combat
+Counter
+Cross Chop
+Crunch
+Double-Edge
+Metal Claw
+Night Slash
+Play Rough
+Seismic Toss
+Sleep Talk
+Take Down
+Yawn
+}},
+ursaring: {learnset: {
+}},
+slugma: {learnset: {
+Acid Armor
+Curse
+Guard Swap
+Heat Wave
+Inferno
+Memento
+Rollout
+Smokescreen
+Spit Up
+Stockpile
+Swallow
+}},
+magcargo: {learnset: {
+}},
+swinub: {learnset: {
+Ancient Power
+Avalanche
+Bite
+Body Slam
+Curse
+Double-Edge
+Fissure
+Freeze-Dry
+Icicle Crash
+Icicle Spear
+Mud Shot
+Rock Slide
+Stealth Rock
+}},
+piloswine: {learnset: {
+}},
+mamoswine: {learnset: {
+}},
+corsola: {learnset: {
+Amnesia
+Barrier
+Bide
+Camouflage
+Confuse Ray
+Curse
+Head Smash
+Icicle Spear
+Ingrain
+Liquidation
+Mist
+Nature Power
+Rock Slide
+Screech
+Water Pulse
+}},
+corsolagalar: {learnset: {
+Confuse Ray
+Destiny Bond
+Haze
+Head Smash
+Nature Power
+Water Pulse
+}},
+cursola: {learnset: {
+}},
+remoraid: {learnset: {
+Acid Spray
+Entrainment
+Flail
+Haze
+Mud Shot
+Octazooka
+Rock Blast
+Screech
+Snore
+Supersonic
+Swift
+Thunder Wave
+Water Spout
+}},
+octillery: {learnset: {
+}},
+delibird: {learnset: {
+Aurora Beam
+Aurora Veil
+Bestow
+Counter
+Destiny Bond
+Fake Out
+Freeze-Dry
+Future Sight
+Ice Ball
+Ice Punch
+Ice Shard
+Icy Wind
+Memento
+Quick Attack
+Rapid Spin
+Spikes
+Splash
+}},
+mantyke: {learnset: {
+Amnesia
+Haze
+Mirror Coat
+Mud Sport
+Rock Slide
+Signal Beam
+Slam
+Splash
+Tailwind
+Twister
+Water Sport
+}},
+mantine: {learnset: {
+Amnesia
+Haze
+Mirror Coat
+Mud Sport
+Rock Slide
+Slam
+Splash
+Tailwind
+Twister
+Water Sport
+}},
+skarmory: {learnset: {
+Assurance
+Brave Bird
+Curse
+Drill Peck
+Endure
+Guard Swap
+Pursuit
+Sky Attack
+Stealth Rock
+Whirlwind
+}},
+houndour: {learnset: {
+Counter
+Destiny Bond
+Feint
+Fire Spin
+Punishment
+Pursuit
+Rage
+Reversal
+Spite
+Sucker Punch
+Thunder Fang
+Will-O-Wisp
+}},
+houndoom: {learnset: {
+}},
+phanpy: {learnset: {
+Ancient Power
+Body Slam
+Counter
+Endeavor
+Fissure
+Focus Energy
+Head Smash
+Heavy Slam
+High Horsepower
+Ice Shard
+Mud-Slap
+Play Rough
+Snore
+}},
+donphan: {learnset: {
+}},
+stantler: {learnset: {
+Bite
+Disable
+Double Kick
+Extrasensory
+Megahorn
+Mud Sport
+Psych Up
+Rage
+Spite
+Swagger
+Thrash
+}},
+smeargle: {learnset: {
+}},
+miltank: {learnset: {
+Belch
+Curse
+Dizzy Punch
+Double-Edge
+Endure
+Hammer Arm
+Heart Stamp
+Helping Hand
+Natural Gift
+Present
+Psych Up
+Punishment
+Reversal
+Seismic Toss
+Sleep Talk
+}},
+raikou: {learnset: {
+}},
+entei: {learnset: {
+}},
+suicune: {learnset: {
+}},
+larvitar: {learnset: {
+Ancient Power
+Assurance
+Curse
+Dragon Dance
+Focus Energy
+Iron Defense
+Iron Head
+Iron Tail
+OutRage
+Pursuit
+Stealth Rock
+Stomp
+}},
+pupitar: {learnset: {
+}},
+tyranitar: {learnset: {
+}},
+lugia: {learnset: {
+}},
+hooh: {learnset: {
+}},
+celebi: {learnset: {
+}},
+treecko: {learnset: {
+Bullet Seed
+Crunch
+Crush Claw
+Double Kick
+Dragon Breath
+Grass Whistle
+Grassy Terrain
+Leaf Storm
+Leech Seed
+Magical Leaf
+Mud Sport
+Natural Gift
+Razor Wind
+Synthesis
+Worry Seed
+}},
+grovyle: {learnset: {
+}},
+sceptile: {learnset: {
+}},
+torchic: {learnset: {
+Agility
+Baton Pass
+Counter
+Crush Claw
+Curse
+Endure
+Feather Dance
+Feint
+Last Resort
+Low Kick
+Night Slash
+Reversal
+Rock Slide
+Smelling Salts
+Swagger
+}},
+combusken: {learnset: {
+}},
+blaziken: {learnset: {
+}},
+mudkip: {learnset: {
+Ancient Power
+Avalanche
+Barrier
+Bite
+Counter
+Curse
+Double-Edge
+Ice Ball
+Mirror Coat
+Mud Bomb
+Refresh
+Sludge
+Stomp
+Uproar
+Wide Guard
+Yawn
+}},
+marshtomp: {learnset: {
+}},
+swampert: {learnset: {
+}},
+poochyena: {learnset: {
+Astonish
+Covet
+Fire Fang
+Ice Fang
+Leer
+Me First
+Poison Fang
+Sleep Talk
+Snatch
+Thunder Fang
+}},
+mightyena: {learnset: {
+}},
+zigzagoon: {learnset: {
+Charm
+Extreme Speed
+Helping Hand
+Mud-Slap
+Pursuit
+Rock Climb
+Simple Beam
+Sleep Talk
+Substitute
+Tickle
+Trick
+}},
+zigzagoongalar: {learnset: {
+Knock Off
+Parting Shot
+Quick Guard
+}},
+linoone: {learnset: {
+}},
+linoonegalar: {learnset: {
+}},
+obstagoon: {learnset: {
+}},
+wurmple: {learnset: {
+}},
+silcoon: {learnset: {
+}},
+beautifly: {learnset: {
+}},
+cascoon: {learnset: {
+}},
+dustox: {learnset: {
+}},
+lotad: {learnset: {
+Counter
+Leech Seed
+Razor Leaf
+Sweet Scent
+Synthesis
+Teeter Dance
+Tickle
+}},
+lombre: {learnset: {
+}},
+ludicolo: {learnset: {
+}},
+seedot: {learnset: {
+Amnesia
+Beat Up
+Bullet Seed
+Defog
+False Swipe
+Foul Play
+Grassy Terrain
+Leech Seed
+Nasty Plot
+Night Slash
+Power Swap
+Quick Attack
+Razor Wind
+Take Down
+Worry Seed
+}},
+nuzleaf: {learnset: {
+}},
+shiftry: {learnset: {
+}},
+taillow: {learnset: {
+Boomburst
+Defog
+Hurricane
+Mirror Move
+Pursuit
+Rage
+Refresh
+Roost
+Sky Attack
+Steel Wing
+Supersonic
+Whirlwind
+}},
+swellow: {learnset: {
+}},
+wingull: {learnset: {
+Aqua Ring
+Brine
+Gust
+Knock Off
+Soak
+Twister
+Water Sport
+Wide Guard
+}},
+pelipper: {learnset: {
+}},
+ralts: {learnset: {
+Ally Switch
+Confuse Ray
+Destiny Bond
+Disable
+Encore
+Grudge
+Knock Off
+Mean Look
+Memento
+Misty Terrain
+Shadow Sneak
+Skill Swap
+Synchronoise
+Will-O-Wisp
+}},
+kirlia: {learnset: {
+}},
+gardevoir: {learnset: {
+}},
+gallade: {learnset: {
+}},
+surskit: {learnset: {
+Bug Bite
+Endure
+Fell Stinger
+Foresight
+Hydro Pump
+Lunge
+Mind Reader
+Mud Shot
+Power Split
+Psybeam
+Signal Beam
+}},
+masquerain: {learnset: {
+}},
+shroomish: {learnset: {
+Bullet Seed
+Charm
+Drain Punch
+Fake Tears
+False Swipe
+Focus Punch
+Helping Hand
+Natural Gift
+Swagger
+Wake-Up Slap
+}},
+breloom: {learnset: {
+}},
+slakoth: {learnset: {
+After You
+Body Slam
+Crush Claw
+Curse
+Hammer Arm
+Night Slash
+Pursuit
+Slash
+Sleep Talk
+Snore
+Tickle
+}},
+vigoroth: {learnset: {
+}},
+slaking: {learnset: {
+}},
+nincada: {learnset: {
+Bug Bite
+Bug Buzz
+Endure
+Feint Attack
+Final Gambit
+Flail
+Gust
+Night Slash
+Silver Wind
+}},
+ninjask: {learnset: {
+}},
+shedinja: {learnset: {
+}},
+whismur: {learnset: {
+Circle Throw
+Disarming Voice
+Endeavor
+Extrasensory
+Fake Tears
+Hammer Arm
+Smelling Salts
+Smokescreen
+Snore
+Swagger
+Take Down
+Whirlwind
+}},
+loudred: {learnset: {
+}},
+exploud: {learnset: {
+}},
+makuhita: {learnset: {
+Bullet Punch
+Chip Away
+Counter
+Cross Chop
+Detect
+Dynamic Punch
+Feint
+Feint Attack
+Focus Punch
+Foresight
+Helping Hand
+Revenge
+Wide Guard
+}},
+hariyama: {learnset: {
+}},
+nosepass: {learnset: {
+Double-Edge
+Endure
+Explosion
+Magnitude
+Rollout
+Stealth Rock
+Wide Guard
+}},
+probopass: {learnset: {
+}},
+skitty: {learnset: {
+Baton Pass
+Cosmic Power
+Fake Tears
+Helping Hand
+Last Resort
+Mud Bomb
+Psych Up
+Simple Beam
+Substitute
+Sucker Punch
+Tickle
+Uproar
+Wish
+Zen Headbutt
+}},
+delcatty: {learnset: {
+}},
+sableye: {learnset: {
+Captivate
+Feint
+Flatter
+Imprison
+Metal Burst
+Moonlight
+Nasty Plot
+Psych Up
+Recover
+Sucker Punch
+Torment
+Trick
+}},
+mawile: {learnset: {
+Ancient Power
+Captivate
+False Swipe
+Fire Fang
+Guard Swap
+Ice Fang
+Metal Burst
+Misty Terrain
+Poison Fang
+Power-Up Punch
+Psych Up
+Punishment
+Seismic Toss
+Slam
+Swords Dance
+Thunder Fang
+Tickle
+}},
+aron: {learnset: {
+Body Slam
+Curse
+Dragon Rush
+Endeavor
+Head Smash
+Reversal
+Screech
+Smelling Salts
+Stealth Rock
+Stomp
+Superpower
+}},
+lairon: {learnset: {
+}},
+aggron: {learnset: {
+}},
+meditite: {learnset: {
+Baton Pass
+Bullet Punch
+Drain Punch
+Dynamic Punch
+Fake Out
+Fire Punch
+Foresight
+Guard Swap
+Ice Punch
+Power Swap
+Psycho Cut
+Quick Guard
+Secret Power
+Thunder Punch
+}},
+medicham: {learnset: {
+}},
+electrike: {learnset: {
+Crunch
+Curse
+Eerie Impulse
+Electro Ball
+Fire Fang
+Flame Burst
+Headbutt
+Ice Fang
+Swift
+Switcheroo
+Uproar
+}},
+manectric: {learnset: {
+}},
+plusle: {learnset: {
+Lucky Chant
+Sing
+Substitute
+Sweet Kiss
+Tearful Look
+Wish
+}},
+minun: {learnset: {
+Lucky Chant
+Sing
+Substitute
+Sweet Kiss
+Tearful Look
+Wish
+}},
+volbeat: {learnset: {
+Baton Pass
+Dizzy Punch
+Encore
+Lunge
+Seismic Toss
+Silver Wind
+Trick
+}},
+illumise: {learnset: {
+Aromatherapy
+Baton Pass
+Captivate
+Confuse Ray
+Fake Tears
+Growth
+Silver Wind
+}},
+budew: {learnset: {
+Cotton Spore
+Extrasensory
+Giga Drain
+Grass Whistle
+Leaf Storm
+Life Dew
+Mind Reader
+Natural Gift
+Pin Missile
+Razor Leaf
+Seed Bomb
+Sleep Powder
+Spikes
+Synthesis
+}},
+roselia: {learnset: {
+Bullet Seed
+Cotton Spore
+Extrasensory
+Leaf Storm
+Life Dew
+Mind Reader
+Natural Gift
+Pin Missile
+Power Whip
+Razor Leaf
+Seed Bomb
+Sleep Powder
+Spikes
+}},
+roserade: {learnset: {
+}},
+gulpin: {learnset: {
+Acid Armor
+Curse
+Destiny Bond
+Dream Eater
+Mud-Slap
+Pain Split
+Smog
+Venom Drench
+}},
+swalot: {learnset: {
+}},
+carvanha: {learnset: {
+Ancient Power
+Brine
+Destiny Bond
+Double-Edge
+Hydro Pump
+Psychic Fangs
+Swift
+Thrash
+}},
+sharpedo: {learnset: {
+}},
+wailmer: {learnset: {
+Aqua Ring
+Clear Smog
+Curse
+Defense Curl
+Double-Edge
+Fissure
+Sleep Talk
+Snore
+Soak
+Swagger
+Thrash
+Tickle
+Zen Headbutt
+}},
+wailord: {learnset: {
+}},
+numel: {learnset: {
+Ancient Power
+Body Slam
+Defense Curl
+Endure
+Growth
+Heat Wave
+Heavy Slam
+Howl
+Iron Head
+Mud Bomb
+Rollout
+Scary Face
+Spit Up
+Stockpile
+Stomp
+Swallow
+}},
+camerupt: {learnset: {
+}},
+torkoal: {learnset: {
+Ancient Power
+Earthquake
+Endure
+Fissure
+Flame Burst
+Skull Bash
+Sleep Talk
+Superpower
+Yawn
+}},
+spoink: {learnset: {
+Amnesia
+Endure
+Extrasensory
+Future Sight
+Lucky Chant
+Mirror Coat
+Simple Beam
+Skill Swap
+Substitute
+Trick
+Whirlwind
+}},
+grumpig: {learnset: {
+}},
+spinda: {learnset: {
+Assist
+Baton Pass
+Disable
+Encore
+Fake Out
+Fake Tears
+Guard Split
+Icy Wind
+Psycho Cut
+Psycho Shift
+Rapid Spin
+Rock Slide
+Role Play
+Smelling Salts
+Spotlight
+Trick
+Water Pulse
+Wish
+}},
+trapinch: {learnset: {
+Bug Bite
+Endure
+First Impression
+Flail
+Focus Energy
+Fury Cutter
+Gust
+Mud Shot
+Quick Attack
+Signal Beam
+}},
+vibrava: {learnset: {
+}},
+flygon: {learnset: {
+}},
+cacnea: {learnset: {
+Acid
+Belch
+Block
+Counter
+Disable
+Dynamic Punch
+Fell Stinger
+Grass Whistle
+Low Kick
+Magical Leaf
+Nasty Plot
+Power-Up Punch
+Rototiller
+Seed Bomb
+Smelling Salts
+Switcheroo
+Teeter Dance
+Worry Seed
+}},
+cacturne: {learnset: {
+}},
+swablu: {learnset: {
+Agility
+Dragon Rush
+Feather Dance
+Haze
+Hyper Voice
+Play Rough
+Power Swap
+Pursuit
+Rage
+Roost
+Steel Wing
+}},
+altaria: {learnset: {
+}},
+zangoose: {learnset: {
+Belly Drum
+Counter
+Curse
+Disable
+Double Hit
+Double Kick
+Feint
+Final Gambit
+Flail
+Fury Swipes
+Iron Tail
+Metal Claw
+Night Slash
+Quick Guard
+Razor Wind
+Roar
+}},
+seviper: {learnset: {
+Assurance
+Body Slam
+Final Gambit
+Iron Tail
+Punishment
+Scary Face
+Spit Up
+Stockpile
+Swallow
+Switcheroo
+}},
+lunatone: {learnset: {
+}},
+solrock: {learnset: {
+}},
+barboach: {learnset: {
+Dragon Dance
+Earth Power
+Flail
+Hydro Pump
+Mud Shot
+Spark
+Take Down
+Thrash
+Whirlpool
+}},
+whiscash: {learnset: {
+}},
+corphish: {learnset: {
+Ancient Power
+Aqua Jet
+Body Slam
+Chip Away
+Double-Edge
+Dragon Dance
+Metal Claw
+Mud Sport
+Slash
+Superpower
+Switcheroo
+Trump Card
+}},
+crawdaunt: {learnset: {
+}},
+baltoy: {learnset: {
+}},
+claydol: {learnset: {
+}},
+lileep: {learnset: {
+Barrier
+Curse
+Endure
+Mega Drain
+Mirror Coat
+Recover
+Rock Slide
+Stealth Rock
+Tickle
+}},
+cradily: {learnset: {
+}},
+anorith: {learnset: {
+Aqua Jet
+Cross Poison
+Curse
+Iron Defense
+Knock Off
+Rapid Spin
+Rock Slide
+Sand Attack
+Screech
+Swords Dance
+Water Pulse
+}},
+armaldo: {learnset: {
+}},
+feebas: {learnset: {
+Brine
+Captivate
+Confuse Ray
+Dragon Breath
+Dragon Pulse
+Haze
+Hypnosis
+Iron Tail
+Light Screen
+Mirror Coat
+Mist
+Mud Sport
+Tickle
+}},
+milotic: {learnset: {
+}},
+castform: {learnset: {
+Amnesia
+Clear Smog
+Cosmic Power
+Disable
+Future Sight
+Guard Swap
+Hex
+Lucky Chant
+Ominous Wind
+Psych Up
+Reflect Type
+}},
+kecleon: {learnset: {
+Disable
+Dizzy Punch
+Fake Out
+Foul Play
+Magic Coat
+Nasty Plot
+Power-Up Punch
+Recover
+Skill Swap
+Snatch
+Trick
+}},
+shuppet: {learnset: {
+Astonish
+Confuse Ray
+Destiny Bond
+Disable
+Foresight
+Gunk Shot
+Imprison
+Ominous Wind
+Payback
+Pursuit
+}},
+banette: {learnset: {
+}},
+duskull: {learnset: {
+Dark Pulse
+Destiny Bond
+Feint Attack
+Grudge
+Haze
+Imprison
+Memento
+Ominous Wind
+Pain Split
+Skill Swap
+}},
+dusclops: {learnset: {
+}},
+dusknoir: {learnset: {
+}},
+tropius: {learnset: {
+Bullet Seed
+Curse
+Dragon Dance
+Dragon Hammer
+Headbutt
+Leaf Blade
+Leech Seed
+Nature Power
+Razor Wind
+Slam
+}},
+chingling: {learnset: {
+Cosmic Power
+Curse
+Disable
+Dream Eater
+Future Sight
+Hypnosis
+Recover
+Skill Swap
+Stored Power
+Wish
+}},
+chimecho: {learnset: {
+Cosmic Power
+Crafty Shield
+Curse
+Disable
+Dream Eater
+Future Sight
+Hypnosis
+Perish Song
+Recover
+Skill Swap
+Stored Power
+Wish
+}},
+absol: {learnset: {
+Assurance
+Baton Pass
+Curse
+Double-Edge
+Feint Attack
+Hex
+Magic Coat
+Mean Look
+Megahorn
+Play Rough
+Punishment
+Substitute
+Zen Headbutt
+}},
+snorunt: {learnset: {
+Avalanche
+Bide
+Block
+Disable
+Fake Tears
+Hex
+Icicle Crash
+Rollout
+Spikes
+Switcheroo
+Weather Ball
+}},
+glalie: {learnset: {
+}},
+froslass: {learnset: {
+}},
+spheal: {learnset: {
+Aqua Ring
+Belly Drum
+Curse
+Fissure
+Rock Slide
+Signal Beam
+Sleep Talk
+Spit Up
+Stockpile
+Swallow
+Water Pulse
+Water Sport
+Yawn
+}},
+sealeo: {learnset: {
+}},
+walrein: {learnset: {
+}},
+clamperl: {learnset: {
+Aqua Ring
+Barrier
+Body Slam
+Brine
+Confuse Ray
+Endure
+Muddy Water
+Mud Sport
+Refresh
+Supersonic
+Water Pulse
+}},
+huntail: {learnset: {
+}},
+gorebyss: {learnset: {
+}},
+relicanth: {learnset: {
+Amnesia
+Aqua Tail
+Brine
+Magnitude
+Muddy Water
+Mud Shot
+Mud-Slap
+Rock Slide
+Skull Bash
+Sleep Talk
+Snore
+Water Sport
+Zen Headbutt
+}},
+luvdisc: {learnset: {
+Aqua Jet
+Brine
+Entrainment
+Heal Pulse
+Mud Sport
+Splash
+Supersonic
+Water Sport
+}},
+bagon: {learnset: {
+Defense Curl
+Dragon Dance
+Dragon Pulse
+Dragon Rage
+Dragon Rush
+Endure
+Fire Fang
+Hydro Pump
+Shadow Claw
+Thrash
+Twister
+}},
+shelgon: {learnset: {
+}},
+salamence: {learnset: {
+}},
+beldum: {learnset: {
+}},
+metang: {learnset: {
+}},
+metagross: {learnset: {
+}},
+regirock: {learnset: {
+}},
+regice: {learnset: {
+}},
+registeel: {learnset: {
+}},
+latias: {learnset: {
+}},
+latios: {learnset: {
+}},
+kyogre: {learnset: {
+}},
+groudon: {learnset: {
+}},
+rayquaza: {learnset: {
+}},
+jirachi: {learnset: {
+}},
+deoxys: {learnset: {
+}},
+turtwig: {learnset: {
+Amnesia
+Body Slam
+Double-Edge
+Earth Power
+Grassy Terrain
+Growth
+Heavy Slam
+Sand Tomb
+Seed Bomb
+Spit Up
+Stockpile
+Superpower
+Swallow
+Thrash
+Tickle
+Wide Guard
+Worry Seed
+}},
+grotle: {learnset: {
+}},
+torterra: {learnset: {
+}},
+chimchar: {learnset: {
+Assist
+Blaze Kick
+Counter
+Double Kick
+Encore
+Fake Out
+Fire Punch
+Focus Energy
+Focus Punch
+Heat Wave
+Helping Hand
+Power-Up Punch
+Quick Guard
+Submission
+Thunder Punch
+}},
+monferno: {learnset: {
+}},
+infernape: {learnset: {
+}},
+piplup: {learnset: {
+Agility
+Aqua Ring
+Double Hit
+Feather Dance
+Flail
+Icy Wind
+Mud-Slap
+Mud Sport
+Power Trip
+Snore
+Supersonic
+Yawn
+}},
+prinplup: {learnset: {
+}},
+empoleon: {learnset: {
+}},
+starly: {learnset: {
+Astonish
+Detect
+Double-Edge
+Feather Dance
+Foresight
+Fury Attack
+Mirror Move
+Pursuit
+Revenge
+Roost
+Sand Attack
+Steel Wing
+Uproar
+}},
+staravia: {learnset: {
+}},
+staraptor: {learnset: {
+}},
+bidoof: {learnset: {
+Aqua Tail
+Double-Edge
+Endure
+Fury Swipes
+Mud Sport
+Odor Sleuth
+Quick Attack
+Rock Climb
+Skull Bash
+Sleep Talk
+Water Sport
+}},
+bibarel: {learnset: {
+}},
+kricketot: {learnset: {
+}},
+kricketune: {learnset: {
+}},
+shinx: {learnset: {
+Double Kick
+Eerie Impulse
+Fake Tears
+Fire Fang
+Helping Hand
+Howl
+Ice Fang
+Night Slash
+Quick Attack
+Shock Wave
+Signal Beam
+Swift
+Take Down
+}},
+luxio: {learnset: {
+}},
+luxray: {learnset: {
+}},
+cranidos: {learnset: {
+Crunch
+Curse
+Double-Edge
+Hammer Arm
+Iron Head
+Iron Tail
+Slam
+Stomp
+Thrash
+Whirlwind
+}},
+rampardos: {learnset: {
+}},
+shieldon: {learnset: {
+Body Slam
+Counter
+Curse
+Double-Edge
+Fissure
+Focus Energy
+Guard Split
+Headbutt
+Rock Blast
+Scary Face
+Screech
+Stealth Rock
+Wide Guard
+}},
+bastiodon: {learnset: {
+}},
+burmy: {learnset: {
+}},
+wormadam: {learnset: {
+}},
+wormadamsandy: {learnset: {
+}},
+wormadamtrash: {learnset: {
+}},
+mothim: {learnset: {
+}},
+combee: {learnset: {
+}},
+vespiquen: {learnset: {
+}},
+pachirisu: {learnset: {
+Baby-Doll Eyes
+Bestow
+Bite
+Charge
+Covet
+Defense Curl
+Fake Tears
+Flail
+Flatter
+Follow Me
+Ion Deluge
+Iron Tail
+Rollout
+Tail Whip
+}},
+buizel: {learnset: {
+Aqua Ring
+Baton Pass
+Double Slap
+Fury Cutter
+Fury Swipes
+Headbutt
+Helping Hand
+Me First
+Mud-Slap
+Odor Sleuth
+Slash
+Soak
+Switcheroo
+Tail Slap
+}},
+floatzel: {learnset: {
+}},
+cherubi: {learnset: {
+Aromatherapy
+Defense Curl
+Flower Shield
+Grass Whistle
+Grassy Terrain
+Healing Wish
+Heal Pulse
+Natural Gift
+Nature Power
+Razor Leaf
+Rollout
+Seed Bomb
+Sweet Scent
+Tickle
+Weather Ball
+}},
+cherrim: {learnset: {
+}},
+shellos: {learnset: {
+Acid Armor
+Amnesia
+Brine
+Clear Smog
+Counter
+Curse
+Fissure
+Mirror Coat
+Mist
+Sludge
+Spit Up
+Stockpile
+Swallow
+Trump Card
+Yawn
+}},
+gastrodon: {learnset: {
+}},
+drifloon: {learnset: {
+Body Slam
+Clear Smog
+Defog
+Disable
+Haze
+Hypnosis
+Memento
+Weather Ball
+}},
+drifblim: {learnset: {
+}},
+buneary: {learnset: {
+Attract
+Circle Throw
+Copycat
+Cosmic Power
+Double Hit
+Encore
+Fake Out
+Fake Tears
+Fire Punch
+Flail
+Focus Punch
+Ice Punch
+Low Kick
+Mud Sport
+Power-Up Punch
+Sky Uppercut
+Sweet Kiss
+Switcheroo
+Teeter Dance
+Thunder Punch
+}},
+lopunny: {learnset: {
+}},
+glameow: {learnset: {
+Assurance
+Bite
+Fake Tears
+Flail
+Last Resort
+Quick Attack
+Sand Attack
+Snatch
+Tail Whip
+Wake-Up Slap
+}},
+purugly: {learnset: {
+}},
+stunky: {learnset: {
+Astonish
+Crunch
+Double-Edge
+Flame Burst
+Foul Play
+Haze
+Iron Tail
+Leer
+Play Rough
+Punishment
+Pursuit
+Scary Face
+Smog
+}},
+skuntank: {learnset: {
+}},
+bronzor: {learnset: {
+}},
+bronzong: {learnset: {
+}},
+chatot: {learnset: {
+Agility
+Air Cutter
+Boomburst
+Defog
+Encore
+Nasty Plot
+Night Shade
+Sleep Talk
+Steel Wing
+Supersonic
+}},
+spiritomb: {learnset: {
+Captivate
+Destiny Bond
+Disable
+Foul Play
+Grudge
+Imprison
+Nightmare
+Pain Split
+Smokescreen
+}},
+gible: {learnset: {
+Body Slam
+Double-Edge
+Dragon Breath
+Iron Head
+Iron Tail
+Metal Claw
+Mud Shot
+OutRage
+Rock Climb
+Scary Face
+Thrash
+Twister
+}},
+gabite: {learnset: {
+}},
+garchomp: {learnset: {
+}},
+riolu: {learnset: {
+Agility
+Bite
+Blaze Kick
+Bullet Punch
+Circle Throw
+Cross Chop
+Crunch
+Detect
+Follow Me
+High Jump Kick
+Howl
+Iron Defense
+Low Kick
+Meteor Mash
+Mind Reader
+Sky Uppercut
+Vacuum Wave
+}},
+lucario: {learnset: {
+}},
+hippopotas: {learnset: {
+Body Slam
+Curse
+Revenge
+Sleep Talk
+Spit Up
+Stockpile
+Swallow
+Whirlwind
+}},
+hippowdon: {learnset: {
+}},
+skorupi: {learnset: {
+Agility
+Confuse Ray
+Feint Attack
+Iron Tail
+Poison Tail
+Sand Attack
+Screech
+Slash
+Twineedle
+Whirlwind
+}},
+drapion: {learnset: {
+}},
+croagunk: {learnset: {
+Acupressure
+Bullet Punch
+Counter
+Cross Chop
+Drain Punch
+Dynamic Punch
+Fake Out
+Feint
+Headbutt
+Meditate
+Me First
+Quick Guard
+Smelling Salts
+Vacuum Wave
+Wake-Up Slap
+}},
+toxicroak: {learnset: {
+}},
+carnivine: {learnset: {
+Acid Spray
+Giga Drain
+Grass Whistle
+Leech Seed
+Magical Leaf
+Rage Powder
+Razor Leaf
+Slam
+Sleep Powder
+Stun Spore
+Synthesis
+Worry Seed
+}},
+finneon: {learnset: {
+Agility
+Aqua Tail
+Aurora Beam
+Brine
+Charm
+Confuse Ray
+Flail
+Psybeam
+Signal Beam
+Splash
+Sweet Kiss
+Tickle
+}},
+lumineon: {learnset: {
+}},
+snover: {learnset: {
+Avalanche
+Bullet Seed
+Double-Edge
+Growth
+Leech Seed
+Magical Leaf
+Natural Gift
+Seed Bomb
+Skull Bash
+Stomp
+}},
+abomasnow: {learnset: {
+}},
+rotom: {learnset: {
+}},
+rotomheat: {learnset: {
+}},
+rotomwash: {learnset: {
+}},
+rotomfrost: {learnset: {
+}},
+rotomfan: {learnset: {
+}},
+rotommow: {learnset: {
+}},
+uxie: {learnset: {
+}},
+mesprit: {learnset: {
+}},
+azelf: {learnset: {
+}},
+dialga: {learnset: {
+}},
+palkia: {learnset: {
+}},
+heatran: {learnset: {
+}},
+regigigas: {learnset: {
+}},
+giratina: {learnset: {
+}},
+cresselia: {learnset: {
+}},
+phione: {learnset: {
+}},
+manaphy: {learnset: {
+}},
+darkrai: {learnset: {
+}},
+shaymin: {learnset: {
+}},
+arceus: {learnset: {
+}},
+victini: {learnset: {
+}},
+snivy: {learnset: {
+Captivate
+Glare
+Grassy Terrain
+Iron Tail
+Magical Leaf
+Mean Look
+Mirror Coat
+Natural Gift
+Pursuit
+Sweet Scent
+Twister
+}},
+servine: {learnset: {
+}},
+serperior: {learnset: {
+}},
+tepig: {learnset: {
+Body Slam
+Burn Up
+Covet
+Curse
+Endeavor
+Heavy Slam
+Magnitude
+Sleep Talk
+Sucker Punch
+Superpower
+Thrash
+Yawn
+}},
+pignite: {learnset: {
+}},
+emboar: {learnset: {
+}},
+oshawott: {learnset: {
+Air Slash
+Assurance
+Brine
+Copycat
+Detect
+Night Slash
+Sacred Sword
+Screech
+Trump Card
+}},
+dewott: {learnset: {
+}},
+samurott: {learnset: {
+}},
+patrat: {learnset: {
+Assurance
+Bullet Seed
+Flail
+Foresight
+Iron Tail
+Pursuit
+Revenge
+Screech
+Tearful Look
+}},
+watchog: {learnset: {
+}},
+lillipup: {learnset: {
+After You
+Charm
+Endure
+Fire Fang
+Howl
+Ice Fang
+Lick
+Mud-Slap
+Psychic Fangs
+Pursuit
+Sand Attack
+Thunder Fang
+Yawn
+}},
+herdier: {learnset: {
+}},
+stoutland: {learnset: {
+}},
+purrloin: {learnset: {
+Charm
+Copycat
+Covet
+Double Team
+Encore
+Fake Tears
+Feint Attack
+Foul Play
+Pay Day
+Quick Attack
+Yawn
+}},
+liepard: {learnset: {
+}},
+pansage: {learnset: {
+Astonish
+Bullet Seed
+Covet
+Disarming Voice
+Grass Whistle
+Leaf Storm
+Low Kick
+Magical Leaf
+Nasty Plot
+Role Play
+Spiky Shield
+Tickle
+}},
+simisage: {learnset: {
+}},
+pansear: {learnset: {
+Astonish
+Belch
+Covet
+Disarming Voice
+Fire Punch
+Fire Spin
+Flare Blitz
+Heat Wave
+Low Kick
+Nasty Plot
+Role Play
+Sleep Talk
+Tickle
+}},
+simisear: {learnset: {
+}},
+panpour: {learnset: {
+Aqua Ring
+Aqua Tail
+Astonish
+Covet
+Disarming Voice
+Hydro Pump
+Low Kick
+Mud Sport
+Nasty Plot
+Role Play
+Tickle
+}},
+simipour: {learnset: {
+}},
+munna: {learnset: {
+Barrier
+Baton Pass
+Curse
+Healing Wish
+Helping Hand
+Secret Power
+Sleep Talk
+Sonic Boom
+Swift
+}},
+musharna: {learnset: {
+}},
+pidove: {learnset: {
+Bestow
+Defog
+Hypnosis
+Lucky Chant
+Morning Sun
+Night Slash
+Steel Wing
+Uproar
+Wish
+}},
+tranquill: {learnset: {
+}},
+unfezant: {learnset: {
+}},
+blitzle: {learnset: {
+Double-Edge
+Double Kick
+Endure
+Feint
+Me First
+Rage
+Sand Attack
+Screech
+Snatch
+Take Down
+}},
+zebstrika: {learnset: {
+}},
+roggenrola: {learnset: {
+Autotomize
+Curse
+Gravity
+Heavy Slam
+Lock-On
+Magnitude
+Rock Tomb
+Take Down
+Wide Guard
+}},
+boldore: {learnset: {
+}},
+gigalith: {learnset: {
+}},
+woobat: {learnset: {
+Captivate
+Charm
+Fake Tears
+Flatter
+Helping Hand
+Knock Off
+Psycho Shift
+Roost
+Stored Power
+Supersonic
+Synchronoise
+Venom Drench
+}},
+swoobat: {learnset: {
+}},
+drilbur: {learnset: {
+Earth Power
+Iron Defense
+Metal Sound
+Rock Climb
+Skull Bash
+Submission
+}},
+excadrill: {learnset: {
+}},
+audino: {learnset: {
+Amnesia
+Bestow
+Draining Kiss
+Encore
+Heal Bell
+Healing Wish
+Lucky Chant
+Sleep Talk
+Sweet Kiss
+Wish
+Yawn
+}},
+timburr: {learnset: {
+Comet Punch
+Counter
+Defog
+Detect
+Drain Punch
+Endure
+Force Palm
+Foresight
+Mach Punch
+Power-Up Punch
+Reversal
+Smelling Salts
+Wide Guard
+}},
+gurdurr: {learnset: {
+}},
+conkeldurr: {learnset: {
+}},
+tympole: {learnset: {
+After You
+Earth Power
+Mist
+Mud Bomb
+Mud-Slap
+Mud Sport
+Refresh
+Sleep Talk
+Snore
+Toxic
+Venom Drench
+Water Pulse
+}},
+palpitoad: {learnset: {
+}},
+seismitoad: {learnset: {
+}},
+throh: {learnset: {
+}},
+sawk: {learnset: {
+}},
+sewaddle: {learnset: {
+Agility
+Air Slash
+Baton Pass
+Camouflage
+Grassy Terrain
+Me First
+Mind Reader
+Razor Wind
+Screech
+Silver Wind
+}},
+swadloon: {learnset: {
+}},
+leavanny: {learnset: {
+}},
+venipede: {learnset: {
+Pin Missile
+Spikes
+Take Down
+Toxic Spikes
+Twineedle
+}},
+whirlipede: {learnset: {
+}},
+scolipede: {learnset: {
+}},
+cottonee: {learnset: {
+Beat Up
+Captivate
+Encore
+Fake Tears
+Grass Whistle
+Memento
+Misty Terrain
+Natural Gift
+Nature Power
+Switcheroo
+Tickle
+Worry Seed
+}},
+whimsicott: {learnset: {
+}},
+petilil: {learnset: {
+Bide
+Charm
+Encore
+Endure
+Grass Whistle
+Healing Wish
+Ingrain
+Natural Gift
+Sweet Scent
+Worry Seed
+}},
+lilligant: {learnset: {
+}},
+basculin: {learnset: {
+Agility
+Brine
+Bubble Beam
+Endeavor
+Muddy Water
+Mud Shot
+Rage
+Revenge
+Swift
+Whirlpool
+}},
+sandile: {learnset: {
+Beat Up
+Counter
+Double-Edge
+Fire Fang
+Focus Energy
+Mean Look
+Me First
+Power Trip
+Pursuit
+Rock Climb
+Thunder Fang
+Uproar
+}},
+krokorok: {learnset: {
+}},
+krookodile: {learnset: {
+}},
+darumaka: {learnset: {
+Encore
+Endure
+Extrasensory
+Flame Wheel
+Focus Energy
+Focus Punch
+Hammer Arm
+Sleep Talk
+Snatch
+Take Down
+Yawn
+}},
+darumakagalar: {learnset: {
+Flame Wheel
+Focus Punch
+Freeze-Dry
+Hammer Arm
+Incinerate
+Power-Up Punch
+Take Down
+Yawn
+}},
+darmanitan: {learnset: {
+}},
+darmanitangalar: {learnset: {
+}},
+maractus: {learnset: {
+Bounce
+Bullet Seed
+Grass Whistle
+Grassy Terrain
+Seed Bomb
+Spikes
+Wood Hammer
+Worry Seed
+}},
+dwebble: {learnset: {
+Block
+Counter
+Curse
+Endure
+Iron Defense
+Knock Off
+Night Slash
+Rototiller
+Sand Tomb
+Spikes
+Wide Guard
+}},
+crustle: {learnset: {
+}},
+scraggy: {learnset: {
+Acid Spray
+Amnesia
+Counter
+Detect
+Dragon Dance
+Drain Punch
+Fake Out
+Fire Punch
+Ice Punch
+Power-Up Punch
+Quick Guard
+Thunder Punch
+Zen Headbutt
+}},
+scrafty: {learnset: {
+}},
+sigilyph: {learnset: {
+Ancient Power
+Future Sight
+Psycho Shift
+Roost
+Steel Wing
+Stored Power
+}},
+yamask: {learnset: {
+Ally Switch
+Endure
+Fake Tears
+Heal Block
+Imprison
+Memento
+Nasty Plot
+Nightmare
+Toxic Spikes
+}},
+yamaskgalar: {learnset: {
+Memento
+}},
+cofagrigus: {learnset: {
+}},
+runerigus: {learnset: {
+}},
+tirtouga: {learnset: {
+Body Slam
+Flail
+Guard Swap
+Iron Defense
+Knock Off
+Liquidation
+Rock Throw
+Slam
+Water Pulse
+Whirlpool
+}},
+carracosta: {learnset: {
+}},
+archen: {learnset: {
+Ally Switch
+Bite
+Defog
+Dragon Pulse
+Earth Power
+Head Smash
+Knock Off
+Steel Wing
+Switcheroo
+}},
+archeops: {learnset: {
+}},
+trubbish: {learnset: {
+Autotomize
+Curse
+Haze
+Mud Sport
+Rock Blast
+Rollout
+Sand Attack
+Self-Destruct
+Spikes
+}},
+garbodor: {learnset: {
+}},
+zorua: {learnset: {
+Captivate
+Copycat
+Counter
+Dark Pulse
+Detect
+Extrasensory
+Memento
+Snatch
+Sucker Punch
+}},
+zoroark: {learnset: {
+}},
+minccino: {learnset: {
+Aqua Tail
+Endure
+Fake Tears
+Flail
+Iron Tail
+Knock Off
+Mud-Slap
+Sleep Talk
+Tail Whip
+}},
+cinccino: {learnset: {
+}},
+gothita: {learnset: {
+Captivate
+Dark Pulse
+Fake Out
+Heal Pulse
+Mean Look
+Miracle Eye
+Mirror Coat
+Torment
+Uproar
+}},
+gothorita: {learnset: {
+}},
+gothitelle: {learnset: {
+}},
+solosis: {learnset: {
+Acid Armor
+Astonish
+Confuse Ray
+Helping Hand
+Imprison
+Night Shade
+Secret Power
+Trick
+}},
+duosion: {learnset: {
+}},
+reuniclus: {learnset: {
+}},
+ducklett: {learnset: {
+Air Cutter
+Aqua Jet
+Brine
+Gust
+Lucky Chant
+Me First
+Mirror Move
+Mud Sport
+Steel Wing
+}},
+swanna: {learnset: {
+}},
+vanillite: {learnset: {
+Aurora Veil
+Autotomize
+Explosion
+Ice Shard
+Icicle Crash
+Imprison
+Iron Defense
+Magnet Rise
+Natural Gift
+Powder Snow
+Water Pulse
+}},
+vanillish: {learnset: {
+}},
+vanilluxe: {learnset: {
+}},
+deerling: {learnset: {
+Agility
+Baton Pass
+Fake Tears
+Grass Whistle
+Headbutt
+Natural Gift
+Odor Sleuth
+Sleep Talk
+Synthesis
+Worry Seed
+}},
+sawsbuck: {learnset: {
+}},
+emolga: {learnset: {
+Air Slash
+Astonish
+Baton Pass
+Charm
+Covet
+Ion Deluge
+Iron Tail
+Roost
+Speed Swap
+Tickle
+}},
+karrablast: {learnset: {
+Bug Bite
+Counter
+Drill Run
+Feint Attack
+Horn Attack
+Knock Off
+Megahorn
+Night Slash
+Pursuit
+Screech
+}},
+escavalier: {learnset: {
+}},
+foongus: {learnset: {
+Body Slam
+Defense Curl
+Endure
+Gastro Acid
+Poison Powder
+Rollout
+Stun Spore
+}},
+amoonguss: {learnset: {
+}},
+frillish: {learnset: {
+Acid Armor
+Confuse Ray
+Constrict
+Mist
+Pain Split
+Strength Sap
+}},
+jellicent: {learnset: {
+}},
+alomomola: {learnset: {
+Endure
+Mirror Coat
+Mist
+Pain Split
+Refresh
+Tickle
+}},
+joltik: {learnset: {
+Camouflage
+Cross Poison
+Disable
+Double Team
+Feint Attack
+Infestation
+Lunge
+Pin Missile
+Poison Sting
+Pursuit
+Rock Climb
+Struggle Bug
+}},
+galvantula: {learnset: {
+}},
+ferroseed: {learnset: {
+Acid Spray
+Bullet Seed
+Gravity
+Knock Off
+Leech Seed
+Rock Climb
+Seed Bomb
+Spikes
+Stealth Rock
+Toxic
+Worry Seed
+}},
+ferrothorn: {learnset: {
+}},
+klink: {learnset: {
+}},
+klang: {learnset: {
+}},
+klinklang: {learnset: {
+}},
+tynamo: {learnset: {
+}},
+eelektrik: {learnset: {
+}},
+eelektross: {learnset: {
+}},
+elgyem: {learnset: {
+Ally Switch
+Astonish
+Barrier
+Cosmic Power
+Destiny Bond
+Disable
+Guard Swap
+Nasty Plot
+Power Swap
+Skill Swap
+}},
+beheeyem: {learnset: {
+}},
+litwick: {learnset: {
+Acid
+Acid Armor
+Captivate
+Clear Smog
+Endure
+Haze
+Heat Wave
+Power Split
+}},
+lampent: {learnset: {
+}},
+chandelure: {learnset: {
+}},
+axew: {learnset: {
+Counter
+Endeavor
+Endure
+First Impression
+Focus Energy
+Harden
+Iron Tail
+Night Slash
+Razor Wind
+Reversal
+}},
+fraxure: {learnset: {
+}},
+haxorus: {learnset: {
+}},
+cubchoo: {learnset: {
+Assurance
+Avalanche
+Encore
+Focus Punch
+Ice Punch
+Night Slash
+Play Rough
+Sleep Talk
+Yawn
+}},
+beartic: {learnset: {
+}},
+cryogonal: {learnset: {
+}},
+shelmet: {learnset: {
+Baton Pass
+Double-Edge
+Encore
+Endure
+Feint
+Guard Split
+Mind Reader
+Mud-Slap
+Pursuit
+Spikes
+Toxic Spikes
+}},
+accelgor: {learnset: {
+}},
+stunfisk: {learnset: {
+Astonish
+Curse
+Earth Power
+Eerie Impulse
+Me First
+Pain Split
+Reflect Type
+Shock Wave
+Sleep Talk
+Spark
+Spite
+Yawn
+}},
+stunfiskgalar: {learnset: {
+Astonish
+Bind
+Counter
+Curse
+Pain Split
+Reflect Type
+Spite
+Yawn
+}},
+mienfoo: {learnset: {
+Ally Switch
+Baton Pass
+Endure
+Feint
+Knock Off
+Low Kick
+Me First
+Smelling Salts
+Vital Throw
+}},
+mienshao: {learnset: {
+}},
+druddigon: {learnset: {
+Crush Claw
+Feint Attack
+Fire Fang
+Glare
+Iron Tail
+Metal Claw
+Poison Tail
+Pursuit
+Snatch
+Sucker Punch
+Thunder Fang
+}},
+golett: {learnset: {
+}},
+golurk: {learnset: {
+}},
+pawniard: {learnset: {
+Headbutt
+Mean Look
+Psycho Cut
+Pursuit
+Quick Guard
+Revenge
+Stealth Rock
+Sucker Punch
+}},
+bisharp: {learnset: {
+}},
+bouffalant: {learnset: {
+Amnesia
+Belch
+Cotton Guard
+Headbutt
+Iron Head
+Mud Shot
+Mud-Slap
+Rock Climb
+Skull Bash
+Stomp
+}},
+rufflet: {learnset: {
+}},
+braviary: {learnset: {
+}},
+vullaby: {learnset: {
+Fake Tears
+Foul Play
+Mean Look
+Roost
+Scary Face
+Steel Wing
+Toxic
+}},
+mandibuzz: {learnset: {
+}},
+heatmor: {learnset: {
+Belch
+Body Slam
+Curse
+Feint Attack
+Heat Wave
+Night Slash
+Pursuit
+Sleep Talk
+Sucker Punch
+Tickle
+Wrap
+}},
+durant: {learnset: {
+Baton Pass
+Endure
+Feint Attack
+First Impression
+Flail
+Infestation
+Metal Burst
+Rock Climb
+Screech
+Struggle Bug
+Thunder Fang
+}},
+deino: {learnset: {
+Astonish
+Belch
+Dark Pulse
+Double Hit
+Earth Power
+Fire Fang
+Head Smash
+Ice Fang
+Screech
+Thunder Fang
+}},
+zweilous: {learnset: {
+}},
+hydreigon: {learnset: {
+}},
+larvesta: {learnset: {
+Endure
+Foresight
+Harden
+Magnet Rise
+Morning Sun
+Zen Headbutt
+}},
+volcarona: {learnset: {
+}},
+cobalion: {learnset: {
+}},
+terrakion: {learnset: {
+}},
+virizion: {learnset: {
+}},
+tornadus: {learnset: {
+}},
+thundurus: {learnset: {
+}},
+reshiram: {learnset: {
+}},
+zekrom: {learnset: {
+}},
+landorus: {learnset: {
+}},
+kyurem: {learnset: {
+}},
+kyuremblack: {learnset: {
+}},
+kyuremwhite: {learnset: {
+}},
+keldeo: {learnset: {
+}},
+meloetta: {learnset: {
+}},
+genesect: {learnset: {
+}},
+chespin: {learnset: {
+Belly Drum
+Curse
+Defense Curl
+Power-Up Punch
+Quick Guard
+Spikes
+Synthesis
+}},
+quilladin: {learnset: {
+}},
+chesnaught: {learnset: {
+}},
+fennekin: {learnset: {
+Heat Wave
+Hypnosis
+Magic Coat
+Psychic Terrain
+Wish
+}},
+braixen: {learnset: {
+}},
+delphox: {learnset: {
+}},
+froakie: {learnset: {
+Bestow
+Camouflage
+Mind Reader
+Mud Sport
+Power-Up Punch
+Toxic Spikes
+Water Sport
+}},
+frogadier: {learnset: {
+}},
+greninja: {learnset: {
+}},
+greninjaash: {learnset: {
+}},
+bunnelby: {learnset: {
+Defense Curl
+Rollout
+Spikes
+}},
+diggersby: {learnset: {
+}},
+fletchling: {learnset: {
+Quick Guard
+Snatch
+}},
+fletchinder: {learnset: {
+}},
+talonflame: {learnset: {
+}},
+scatterbug: {learnset: {
+Poison Powder
+Rage Powder
+}},
+spewpa: {learnset: {
+}},
+vivillon: {learnset: {
+}},
+vivillonfancy: {learnset: {
+}},
+vivillonpokeball: {learnset: {
+}},
+litleo: {learnset: {
+Entrainment
+Fire Spin
+Flare Blitz
+Snatch
+Yawn
+}},
+pyroar: {learnset: {
+}},
+flabebe: {learnset: {
+Camouflage
+Captivate
+Copycat
+Tearful Look
+}},
+floette: {learnset: {
+}},
+floetteeternal: {learnset: {
+}},
+florges: {learnset: {
+}},
+skiddo: {learnset: {
+Defense Curl
+Grassy Terrain
+Rollout
+}},
+gogoat: {learnset: {
+}},
+pancham: {learnset: {
+Foul Play
+Me First
+Power Trip
+Quash
+Quick Guard
+Seismic Toss
+Storm Throw
+}},
+pangoro: {learnset: {
+}},
+furfrou: {learnset: {
+Captivate
+Mimic
+Refresh
+Role Play
+Work Up
+}},
+espurr: {learnset: {
+Assist
+Barrier
+Tickle
+Trick
+Yawn
+}},
+meowstic: {learnset: {
+}},
+meowsticf: {learnset: {
+}},
+honedge: {learnset: {
+Block
+Destiny Bond
+Wide Guard
+}},
+doublade: {learnset: {
+}},
+aegislash: {learnset: {
+}},
+spritzee: {learnset: {
+After You
+Captivate
+Disable
+Nasty Plot
+Refresh
+Wish
+}},
+aromatisse: {learnset: {
+}},
+swirlix: {learnset: {
+After You
+Belly Drum
+Copycat
+Sticky Web
+Yawn
+}},
+slurpuff: {learnset: {
+}},
+inkay: {learnset: {
+Acupressure
+Camouflage
+Destiny Bond
+Disable
+Flatter
+Guard Swap
+Power Split
+Simple Beam
+}},
+malamar: {learnset: {
+}},
+binacle: {learnset: {
+Helping Hand
+Switcheroo
+Tickle
+Water Sport
+}},
+barbaracle: {learnset: {
+}},
+skrelp: {learnset: {
+Acid Armor
+Haze
+Play Rough
+Toxic Spikes
+Venom Drench
+}},
+dragalge: {learnset: {
+}},
+clauncher: {learnset: {
+Endure
+Entrainment
+Helping Hand
+}},
+clawitzer: {learnset: {
+}},
+helioptile: {learnset: {
+Agility
+Camouflage
+Dragon Rush
+Dragon Tail
+Electric Terrain
+Glare
+}},
+heliolisk: {learnset: {
+}},
+tyrunt: {learnset: {
+Curse
+Dragon Dance
+Fire Fang
+Ice Fang
+Poison Fang
+Rock Polish
+Thunder Fang
+}},
+tyrantrum: {learnset: {
+}},
+amaura: {learnset: {
+Barrier
+Discharge
+Haze
+Magnet Rise
+Mirror Coat
+}},
+aurorus: {learnset: {
+}},
+sylveon: {learnset: {
+}},
+hawlucha: {learnset: {
+Agility
+Ally Switch
+Baton Pass
+Cross Chop
+Defog
+Entrainment
+Feint
+Mean Look
+Me First
+Mud Sport
+Quick Guard
+}},
+dedenne: {learnset: {
+Covet
+Eerie Impulse
+Helping Hand
+Natural Gift
+Tearful Look
+}},
+carbink: {learnset: {
+}},
+goomy: {learnset: {
+Acid Armor
+Counter
+Endure
+Iron Tail
+Life Dew
+Poison Tail
+}},
+sliggoo: {learnset: {
+}},
+goodra: {learnset: {
+}},
+klefki: {learnset: {
+Iron Defense
+Lock-On
+Switcheroo
+Thief
+}},
+phantump: {learnset: {
+Bestow
+Disable
+Grudge
+Imprison
+Power-Up Punch
+Sucker Punch
+Venom Drench
+}},
+trevenant: {learnset: {
+}},
+pumpkaboo: {learnset: {
+Bestow
+Curse
+Destiny Bond
+Disable
+}},
+gourgeist: {learnset: {
+}},
+bergmite: {learnset: {
+Aurora Veil
+Barrier
+Mirror Coat
+Mist
+}},
+avalugg: {learnset: {
+}},
+noibat: {learnset: {
+Defog
+Dragon Rush
+OutRage
+Snatch
+Switcheroo
+}},
+noivern: {learnset: {
+}},
+xerneas: {learnset: {
+}},
+yveltal: {learnset: {
+}},
+zygarde: {learnset: {
+}},
+diancie: {learnset: {
+}},
+hoopa: {learnset: {
+}},
+volcanion: {learnset: {
+}},
+rowlet: {learnset: {
+Baton Pass
+Confuse Ray
+Curse
+Defog
+Double Team
+Haze
+Knock Off
+}},
+dartrix: {learnset: {
+}},
+decidueye: {learnset: {
+}},
+litten: {learnset: {
+Body Slam
+Crunch
+Fake Out
+Heat Wave
+Nasty Plot
+Parting Shot
+Power Trip
+Revenge
+}},
+torracat: {learnset: {
+}},
+incineroar: {learnset: {
+}},
+popplio: {learnset: {
+Amnesia
+Aqua Ring
+Aromatic Mist
+Charm
+Life Dew
+Perish Song
+Wonder Room
+}},
+brionne: {learnset: {
+}},
+primarina: {learnset: {
+}},
+pikipek: {learnset: {
+Boomburst
+Brave Bird
+Mirror Move
+Tailwind
+Uproar
+}},
+trumbeak: {learnset: {
+}},
+toucannon: {learnset: {
+}},
+yungoos: {learnset: {
+Fire Fang
+Ice Fang
+Last Resort
+Revenge
+Thunder Fang
+}},
+gumshoos: {learnset: {
+}},
+gumshoostotem: {learnset: {
+}},
+grubbin: {learnset: {
+Discharge
+Electroweb
+Endure
+Harden
+Mud Shot
+}},
+charjabug: {learnset: {
+}},
+vikavolt: {learnset: {
+}},
+vikavolttotem: {learnset: {
+}},
+crabrawler: {learnset: {
+Amnesia
+Endeavor
+Superpower
+Wide Guard
+}},
+crabominable: {learnset: {
+}},
+oricorio: {learnset: {
+Pluck
+Safeguard
+Tailwind
+}},
+cutiefly: {learnset: {
+Aromatic Mist
+Baton Pass
+Bestow
+Moonblast
+Powder
+Skill Swap
+Speed Swap
+Sticky Web
+}},
+ribombee: {learnset: {
+}},
+ribombeetotem: {learnset: {
+}},
+rockruff: {learnset: {
+Crush Claw
+Fire Fang
+Sucker Punch
+Thrash
+Thunder Fang
+}},
+rockruffdusk: {learnset: {
+Crush Claw
+Fire Fang
+Sucker Punch
+Thrash
+Thunder Fang
+}},
+lycanroc: {learnset: {
+}},
+lycanrocmidnight: {learnset: {
+}},
+lycanrocdusk: {learnset: {
+}},
+wishiwashi: {learnset: {
+Mist
+Muddy Water
+Water Pulse
+Water Sport
+Whirlpool
+}},
+mareanie: {learnset: {
+Haze
+Infestation
+Spit Up
+Stockpile
+Swallow
+}},
+toxapex: {learnset: {
+}},
+mudbray: {learnset: {
+Body Slam
+Close Combat
+Double-Edge
+Fissure
+Magnitude
+Mud Bomb
+Roar
+Smack Down
+}},
+mudsdale: {learnset: {
+}},
+dewpider: {learnset: {
+Aurora Beam
+Power Split
+Spit Up
+Sticky Web
+Stockpile
+}},
+araquanid: {learnset: {
+}},
+araquanidtotem: {learnset: {
+}},
+fomantis: {learnset: {
+Aromatherapy
+Defog
+Giga Drain
+Leaf Storm
+Weather Ball
+}},
+lurantis: {learnset: {
+}},
+lurantistotem: {learnset: {
+}},
+morelull: {learnset: {
+Amnesia
+Growth
+Leech Seed
+Poison Powder
+Stun Spore
+}},
+shiinotic: {learnset: {
+}},
+salandit: {learnset: {
+Belch
+Fake Out
+Knock Off
+Mud-Slap
+Sand Attack
+Snatch
+}},
+salazzle: {learnset: {
+}},
+salazzletotem: {learnset: {
+}},
+stufful: {learnset: {
+Defense Curl
+Force Palm
+Ice Punch
+Mega Kick
+Rollout
+Stomp
+Stomping Tantrum
+Thunder Punch
+Wide Guard
+}},
+bewear: {learnset: {
+}},
+bounsweet: {learnset: {
+Acupressure
+Charm
+Endeavor
+Feint
+Grass Whistle
+Play Rough
+Synthesis
+}},
+steenee: {learnset: {
+}},
+tsareena: {learnset: {
+}},
+comfey: {learnset: {
+After You
+Amnesia
+Endure
+Lucky Chant
+}},
+oranguru: {learnset: {
+Dream Eater
+Extrasensory
+Last Resort
+Psychic Terrain
+Wonder Room
+Yawn
+}},
+passimian: {learnset: {
+Counter
+Feint
+Iron Head
+Knock Off
+Quick Attack
+Quick Guard
+Seismic Toss
+Vital Throw
+}},
+wimpod: {learnset: {
+Aqua Jet
+Harden
+Metal Claw
+Rollout
+Spikes
+Wide Guard
+}},
+golisopod: {learnset: {
+}},
+sandygast: {learnset: {
+Amnesia
+Ancient Power
+Curse
+Destiny Bond
+Spit Up
+Stockpile
+Swallow
+}},
+palossand: {learnset: {
+}},
+pyukumuku: {learnset: {
+Bestow
+Endure
+Mirror Coat
+Spite
+Swagger
+Tickle
+Venom Drench
+}},
+typenull: {learnset: {
+}},
+silvally: {learnset: {
+}},
+minior: {learnset: {
+}},
+komala: {learnset: {
+Charm
+Play Rough
+Sing
+Wish
+}},
+turtonator: {learnset: {
+Curse
+Fire Spin
+Head Smash
+Rapid Spin
+Revenge
+Wide Guard
+}},
+togedemaru: {learnset: {
+Disarming Voice
+Encore
+Fake Out
+Flail
+Present
+Reversal
+Tickle
+Twineedle
+Wish
+}},
+togedemarutotem: {learnset: {
+}},
+mimikyu: {learnset: {
+Curse
+Destiny Bond
+Grudge
+Nightmare
+}},
+mimikyutotem: {learnset: {
+}},
+bruxish: {learnset: {
+Ice Fang
+Poison Fang
+Rage
+Water Pulse
+}},
+drampa: {learnset: {
+Dragon Rush
+Hurricane
+Mist
+Play Rough
+Razor Wind
+Tickle
+}},
+dhelmise: {learnset: {
+}},
+jangmoo: {learnset: {
+Counter
+Dragon Breath
+Focus Punch
+Reversal
+}},
+hakamoo: {learnset: {
+}},
+kommoo: {learnset: {
+}},
+kommoototem: {learnset: {
+}},
+tapukoko: {learnset: {
+}},
+tapulele: {learnset: {
+}},
+tapubulu: {learnset: {
+}},
+tapufini: {learnset: {
+}},
+cosmog: {learnset: {
+}},
+cosmoem: {learnset: {
+}},
+solgaleo: {learnset: {
+}},
+lunala: {learnset: {
+}},
+nihilego: {learnset: {
+}},
+buzzwole: {learnset: {
+}},
+pheromosa: {learnset: {
+}},
+xurkitree: {learnset: {
+}},
+celesteela: {learnset: {
+}},
+kartana: {learnset: {
+}},
+guzzlord: {learnset: {
+}},
+necrozma: {learnset: {
+}},
+necrozmaduskmane: {learnset: {
+}},
+necrozmadawnwings: {learnset: {
+}},
+necrozmaultra: {learnset: {
+}},
+magearna: {learnset: {
+}},
+magearnaoriginal: {learnset: {
+}},
+marshadow: {learnset: {
+}},
+poipole: {learnset: {
+}},
+naganadel: {learnset: {
+}},
+stakataka: {learnset: {
+}},
+blacephalon: {learnset: {
+}},
+zeraora: {learnset: {
+}},
+meltan: {learnset: {
+}},
+melmetal: {learnset: {
+}},
+grookey: {learnset: {
+Fake Out
+Growth
+Hammer Arm
+Leech Seed
+Nature Power
+Strength
+Worry Seed
+}},
+thwackey: {learnset: {
+}},
+rillaboom: {learnset: {
+}},
+scorbunny: {learnset: {
+High Jump Kick
+Sand Attack
+Sucker Punch
+Super Fang
+}},
+raboot: {learnset: {
+}},
+cinderace: {learnset: {
+}},
+sobble: {learnset: {
+Aqua Jet
+Aqua Ring
+Double Team
+Fell Stinger
+Haze
+Ice Shard
+Mist
+}},
+drizzile: {learnset: {
+}},
+inteleon: {learnset: {
+}},
+skwovet: {learnset: {
+Belly Drum
+Defense Curl
+Last Resort
+Rollout
+}},
+greedent: {learnset: {
+}},
+rookidee: {learnset: {
+Defog
+Rock Smash
+Roost
+Sand Attack
+Sky Attack
+Spite
+Tailwind
+}},
+corvisquire: {learnset: {
+}},
+corviknight: {learnset: {
+}},
+blipbug: {learnset: {
+Infestation
+Recover
+Sticky Web
+Supersonic
+}},
+dottler: {learnset: {
+}},
+orbeetle: {learnset: {
+}},
+nickit: {learnset: {
+Howl
+Knock Off
+Quick Guard
+Torment
+}},
+thievul: {learnset: {
+}},
+gossifleur: {learnset: {
+Growth
+Leech Seed
+Poison Powder
+Sleep Powder
+Stun Spore
+Worry Seed
+}},
+eldegoss: {learnset: {
+}},
+wooloo: {learnset: {
+Counter
+Stomp
+Swagger
+}},
+dubwool: {learnset: {
+}},
+chewtle: {learnset: {
+Dragon Tail
+Gastro Acid
+Skull Bash
+}},
+drednaw: {learnset: {
+}},
+yamper: {learnset: {
+Discharge
+Double-Edge
+Flame Charge
+Howl
+Sand Attack
+}},
+boltund: {learnset: {
+}},
+rolycoly: {learnset: {
+Block
+Explosion
+Mud-Slap
+}},
+carkol: {learnset: {
+}},
+coalossal: {learnset: {
+}},
+applin: {learnset: {
+Defense Curl
+Recycle
+Rollout
+Sucker Punch
+}},
+flapple: {learnset: {
+}},
+appletun: {learnset: {
+}},
+silicobra: {learnset: {
+Belch
+Dragon Rush
+Last Resort
+Mud-Slap
+Poison Tail
+}},
+sandaconda: {learnset: {
+}},
+cramorant: {learnset: {
+Aerial Ace
+Aqua Ring
+Defog
+Feather Dance
+Roost
+}},
+arrokuda: {learnset: {
+Acupressure
+Night Slash
+Slash
+Thrash
+}},
+barraskewda: {learnset: {
+}},
+toxel: {learnset: {
+Endeavor
+Metal Sound
+Power-Up Punch
+}},
+toxtricity: {learnset: {
+}},
+toxtricitylowkey: {learnset: {
+}},
+sizzlipede: {learnset: {
+Defense Curl
+Knock Off
+Rollout
+Struggle Bug
+}},
+centiskorch: {learnset: {
+}},
+clobbopus: {learnset: {
+Circle Throw
+Pain Split
+Power-Up Punch
+Seismic Toss
+Soak
+Sucker Punch
+}},
+grapploct: {learnset: {
+}},
+sinistea: {learnset: {
+}},
+polteageist: {learnset: {
+}},
+hatenna: {learnset: {
+After You
+Aromatic Mist
+Nuzzle
+Quash
+}},
+hattrem: {learnset: {
+}},
+hatterene: {learnset: {
+}},
+impidimp: {learnset: {
+}},
+morgrem: {learnset: {
+}},
+grimmsnarl: {learnset: {
+}},
+milcery: {learnset: {
+Baby-Doll Eyes
+Last Resort
+}},
+alcremie: {learnset: {
+}},
+falinks: {learnset: {
+}},
+pincurchin: {learnset: {
+Memento
+Sucker Punch
+}},
+snom: {learnset: {
+Bug Bite
+Fairy Wind
+Mirror Coat
+}},
+frosmoth: {learnset: {
+}},
+stonjourner: {learnset: {
+Ancient Power
+Curse
+}},
+eiscue: {learnset: {
+Aqua Ring
+Belly Drum
+Double-Edge
+Head Smash
+Icicle Crash
+Soak
+}},
+indeedee: {learnset: {
+Extrasensory
+Fake Out
+Psych Up
+}},
+indeedeef: {learnset: {
+Fake Out
+Heal Pulse
+Psycho Shift
+Psych Up
+}},
+morpeko: {learnset: {
+Charge
+Fake Out
+Parting Shot
+Quash
+Rapid Spin
+Super Fang
+Swagger
+Tickle
+}},
+cufant: {learnset: {
+Belch
+Curse
+Defense Curl
+Double-Edge
+Fissure
+Slam
+Swagger
+Whirlwind
+}},
+copperajah: {learnset: {
+}},
+dracozolt: {learnset: {
+}},
+arctozolt: {learnset: {
+}},
+dracovish: {learnset: {
+}},
+arctovish: {learnset: {
+}},
+duraludon: {learnset: {
+Mirror Coat
+Night Slash
+Slash
+}},
+dreepy: {learnset: {
+Confuse Ray
+Curse
+Disable
+Double Team
+Dragon Tail
+Grudge
+Sucker Punch
+}},
+drakloak: {learnset: {
+}},
+dragapult: {learnset: {
+}},
+zacian: {learnset: {
+}},
+zaciancrowned: {learnset: {
+}},
+zamazenta: {learnset: {
+}},
+zamazentacrowned: {learnset: {
+}},
+eternatus: {learnset: {
+}},
+tomohawk: {learnset: {
+Baton Pass
+Brick Break
+Confuse Ray
+Focus Energy
+Frustration
+Haze
+Memento
+Nature Power
+Rapid Spin
+Roost
+Stealth Rock
+Yawn
+}},
+necturna: {learnset: {
+Curse
+Future Sight
+Giga Drain
+Gravity
+Ingrain
+Leaf Blade
+Leaf Storm
+Natural Gift
+Nightmare
+Sketch
+}},
+mollux: {learnset: {
+Aqua Ring
+Charm
+Fire Spin
+Gastro Acid
+Heal Bell
+Heal Pulse
+Helping Hand
+Rapid Spin
+Sleep Talk
+Stealth Rock
+Trick
+Venom Drench
+}},
+aurumoth: {learnset: {
+Bug Buzz
+Close Combat
+Counter
+Disable
+Feint
+Hydro Pump
+Megahorn
+Safeguard
+Wing Attack
+}},
+malaconda: {learnset: {
+Aromatherapy
+Beat Up
+Feint
+Haze
+Ice Fang
+Night Slash
+Poison Powder
+Screech
+Stun Spore
+Sweet Scent
+Thunder Fang
+}},
+cawmodore: {learnset: {
+Air Slash
+Drill Peck
+Metal Sound
+Mirror Move
+Pursuit
+Quick Attack
+Quick Guard
+Razor Wind
+Water Sport
+}},
+volkraken: {learnset: {
+Aqua Jet
+Assurance
+Captivate
+Reflect Type
+Scary Face
+Tickle
+Water Pulse
+}},
+plasmanta: {learnset: {
+Aura Sphere
+Haze
+Shock Wave
+Signal Beam
+Splash
+Venom Drench
+Water Pulse
+Wide Guard
+}},
+naviathan: {learnset: {
+Bite
+Dragon Dance
+Feather Dance
+Feint
+Haze
+Ice Fang
+Icicle Spear
+Iron Tail
+Metronome
+Psychic Fangs
+Refresh
+Thunder Fang
+Water Pulse
+Whirlpool
+}},
+crucibelle: {learnset: {
+Coil
+Defense Curl
+Rollout
+Wood Hammer
+}},
+kerfluffle: {learnset: {
+Charm
+Encore
+Quick Guard
+Wide Guard
+Wish
+}},
+pajantom: {learnset: {
+Ice Fang
+Iron Tail
+Poison Fang
+Sand Tomb
+Spite
+Whirlpool
+}},
+jumbao: {learnset: {
+Grassy Terrain
+Healing Wish
+Misty Terrain
+Smelling Salts
+Wood Hammer
+}},
+caribolt: {learnset: {
+Double-Edge
+Double Kick
+Natural Gift
+Power Whip
+Present
+Rapid Spin
+Spotlight
+}},
+smokomodo: {learnset: {
+Acid Spray
+Bone Rush
+Bullet Punch
+Fire Spin
+Force Palm
+Mach Punch
+Poison Fang
+Sand Tomb
+}},
+snaelstrom: {learnset: {
+Acid Armor
+Powder
+Psycho Shift
+Spiky Shield
+Spotlight
+Sticky Web
+}},
+equilibra: {learnset: {
+}},
+syclant: {learnset: {
+Earth Power
+Fell Stinger
+Mimic
+Pin Missile
+Signal Beam
+Spikes
+Superpower
+Tail Glow
+}},
+revenankh: {learnset: {
+Counter
+Curse
+Destiny Bond
+Force Palm
+Hex
+Mach Punch
+Memento
+Metronome
+Mimic
+Nasty Plot
+Ominous Wind
+Shadow Sneak
+}},
+pyroak: {learnset: {
+Aromatherapy
+Counter
+Double-Edge
+Dragon Breath
+Grass Whistle
+Grassy Terrain
+Petal Blizzard
+Psybeam
+Revenge
+Sand Tomb
+Water Sport
+}},
+fidgit: {learnset: {
+Disable
+Double-Edge
+Entrainment
+Follow Me
+Me First
+Metronome
+Mimic
+Sand Tomb
+Spikes
+Wish
+}},
+stratagem: {learnset: {
+}},
+arghonaut: {learnset: {
+Bulk Up
+Close Combat
+Cross Chop
+Headbutt
+Octazooka
+Recover
+Scary Face
+Spikes
+}},
+kitsunoh: {learnset: {
+Curse
+Defog
+Feather Dance
+Flail
+Hex
+Iron Tail
+Metal Sound
+Meteor Mash
+Play Rough
+Psycho Shift
+Sucker Punch
+Wish
+Yawn
+}},
+cyclohm: {learnset: {
+Heal Bell
+Hydro Pump
+Mud-Slap
+Powder Snow
+Power Gem
+}},
+colossoil: {learnset: {
+Chip Away
+Double-Edge
+Encore
+Fake Out
+Fire Fang
+Fissure
+Flail
+Mimic
+Sand Tomb
+Screech
+Sucker Punch
+Thunder Fang
+Wide Guard
+}},
+krilowatt: {learnset: {
+Entrainment
+Follow Me
+Me First
+Metronome
+Mind Reader
+Sheer Cold
+Speed Swap
+}},
+voodoom: {learnset: {
+Baton Pass
+Counter
+Imprison
+Mach Punch
+Memento
+Metronome
+Nasty Plot
+Nightmare
+Perish Song
+Power Trip
+Pursuit
+Screech
+Smelling Salts
+}},
+syclar: {learnset: {
+Counter
+Earth Power
+Fell Stinger
+Mimic
+Pin Missile
+Signal Beam
+Spikes
+Superpower
+Tail Glow
+}},
+embirch: {learnset: {
+Aromatherapy
+Counter
+Dragon Breath
+Grass Whistle
+Grassy Terrain
+Petal Blizzard
+Psybeam
+Revenge
+Water Sport
+}},
+flarelm: {learnset: {
+Aromatherapy
+Counter
+Dragon Breath
+Grass Whistle
+Grassy Terrain
+Petal Blizzard
+Psybeam
+Revenge
+Sand Tomb
+Water Sport
+}},
+breezi: {learnset: {
+Disable
+Double-Edge
+Entrainment
+Follow Me
+Me First
+Metronome
+Mimic
+Sand Tomb
+Spikes
+Wish
+}},
+scratchet: {learnset: {
+Baton Pass
+Brick Break
+Confuse Ray
+Haze
+Memento
+Nature Power
+Rapid Spin
+Roost
+Stealth Rock
+Yawn
+}},
+necturine: {learnset: {
+Curse
+Future Sight
+Giga Drain
+Gravity
+Ingrain
+Leaf Blade
+Leaf Storm
+Nightmare
+Sketch
+}},
+cupra: {learnset: {
+Bug Buzz
+Close Combat
+Counter
+Disable
+Feint
+Hydro Pump
+Megahorn
+Safeguard
+Wing Attack
+}},
+argalis: {learnset: {
+Bug Buzz
+Close Combat
+Counter
+Disable
+Feint
+Hydro Pump
+Megahorn
+Safeguard
+Wing Attack
+}},
+brattler: {learnset: {
+Aromatherapy
+Beat Up
+Feint
+Haze
+Ice Fang
+Night Slash
+Poison Powder
+Screech
+Stun Spore
+Sweet Scent
+Thunder Fang
+}},
+cawdet: {learnset: {
+Air Slash
+Drill Peck
+Metal Sound
+Mirror Move
+Pursuit
+Quick Attack
+Quick Guard
+Razor Wind
+Water Sport
+}},
+volkritter: {learnset: {
+Assurance
+Captivate
+Scary Face
+Tickle
+Water Pulse
+}},
+snugglow: {learnset: {
+Haze
+Shock Wave
+Signal Beam
+Splash
+Water Pulse
+Wide Guard
+}},
+floatoy: {learnset: {
+Bite
+Dragon Dance
+Feather Dance
+Feint
+Haze
+Ice Fang
+Icicle Spear
+Iron Tail
+Metronome
+Refresh
+Thunder Fang
+Water Pulse
+Whirlpool
+Wide Guard
+}},
+caimanoe: {learnset: {
+Bite
+Dragon Dance
+Feather Dance
+Feint
+Haze
+Ice Fang
+Icicle Spear
+Iron Tail
+Metronome
+Refresh
+Thunder Fang
+Water Pulse
+Whirlpool
+Wide Guard
+}},
+pluffle: {learnset: {
+Charm
+Quick Guard
+Wide Guard
+Wish
+}},
+rebble: {learnset: {
+}},
+tactite: {learnset: {
+}},
+privatyke: {learnset: {
+Bulk Up
+Close Combat
+Cross Chop
+Headbutt
+Octazooka
+Recover
+Scary Face
+Spikes
+}},
+voodoll: {learnset: {
+Baton Pass
+Counter
+Imprison
+Mach Punch
+Memento
+Metronome
+Nasty Plot
+Nightmare
+Perish Song
+Power Trip
+Pursuit
+Screech
+Smelling Salts
+}},
+mumbao: {learnset: {
+Grassy Terrain
+Healing Wish
+Misty Terrain
+}},
+fawnifer: {learnset: {
+Double-Edge
+Double Kick
+Natural Gift
+Power Whip
+Present
+Rapid Spin
+Spotlight
+}},
+electrelk: {learnset: {
+}},
+smogecko: {learnset: {
+Acid Spray
+Bone Rush
+Bullet Punch
+Fire Spin
+Force Palm
+Mach Punch
+Poison Fang
+Sand Tomb
+}},
+smoguana: {learnset: {
+}},
+swirlpool: {learnset: {
+Acid Armor
+Powder
+Psycho Shift
+Spiky Shield
+Spotlight
+Sticky Web
+}},
+coribalis: {learnset: {
+}},
