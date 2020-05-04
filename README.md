@@ -9,7 +9,7 @@ To access a sprite directly, go to
 For the majority of Pokemon, their sprite name is simply their species. (`absol.png`)
 
 Formes specified with their initial: 
-* All megas, primals, Alolan, and Galarian formes (`absol-m.png`, `mewtwo-x`, `necrozma-u.png`, `muk-a.png`, `ponyta-g`)
+* All megas, primals, Alolan, and Galarian formes (`absol-m.png`, `mewtwo-x.png`, `necrozma-u.png`, `muk-a.png`, `ponyta-g`)
 * All gender variants. (`meowstic-m.png`)
 * Transformational variants. (`landorus-t.png`, `hoopa-u.png`, `rotom-w.png`)
 
