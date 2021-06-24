@@ -1,0 +1,340 @@
+[HIDE='Alkaid (Gardevoir ★★★★★ ♀)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/gardevoir.gif[/IMG]
+[B][SIZE=7]Alkaid[/SIZE][/B] (Gardevoir ♀)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Timid[/SIZE][/B]  Nature ( +Speed, -Attack, +10% Accuracy )
+ 
+[B]Items:[/B] Rocky Helmet or Gardevoirite
+ 
+[B]Typing:[/B] Psychic/Fairy
+[B]Ability:[/B] Trace
+  
+[B]HP:[/B] 85
+[B]Attack:[/B] 4 (-)
+[B]Defen.:[/B] 5
+[B]Sp.Atk:[/B] 9
+[B]Sp.Def:[/B] 8
+[B]Speed:[/B] 92 (+)
+[SIZE=3][B]Size Class:[/B] 3
+[B]Weight Class:[/B] 3[/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Ally Switch
+Attract
+Body Slam
+Calm Mind
+Captivate
+Charge Beam
+Charm
+Confide
+Confuse Ray
+Confusion
+Dazzling Gleam
+Defense Curl
+Destiny Bond
+Disable
+Disarming Voice
+Double Team
+Double-Edge
+Draining Kiss
+Dream Eater
+Echoed Voice
+Encore
+Endure
+Energy Ball
+Expanding Force
+Facade
+Fire Punch
+Flash
+Fling
+Focus Blast
+Frustration
+Future Sight
+Giga Impact
+Grass Knot
+Growl
+Grudge
+Guard Swap
+Headbutt
+Heal Bell
+Heal Pulse
+Healing Wish
+Helping Hand
+Hidden Power [Ground]
+Hyper Beam
+Hyper Voice
+Hypnosis
+Ice Punch
+Icy Wind
+Imprison
+Knock Off
+Laser Focus
+Life Dew
+Light Screen
+Lucky Chant
+Magic Coat
+Magic Room
+Magical Leaf
+Mean Look
+Mega Kick
+Mega Punch
+Memento
+Mimic
+Misty Explosion
+Misty Terrain
+Moonblast
+Mud-Slap
+Mystical Fire
+Natural Gift
+Nightmare
+Pain Split
+Power Swap
+Protect
+Psybeam
+Psych Up
+Psychic
+Psychic Terrain
+Psyshock
+Rain Dance
+Recycle
+Reflect
+Rest
+Return
+Round
+Safeguard
+Secret Power
+Shadow Ball
+Shadow Sneak
+Shock Wave
+Signal Beam
+Sing
+Skill Swap
+Sleep Talk
+Snatch
+Snore
+Stored Power
+Substitute
+Sunny Day
+Swagger
+Swift
+Synchronoise
+Taunt
+Telekinesis
+Teleport
+Thief
+Thunder Punch
+Thunder Wave
+Thunderbolt
+Torment
+Toxic
+Trick
+Trick Room
+Triple Axel
+Will-O-Wisp
+Wish
+Wonder Room
+Zen Headbutt
+[/HIDE][HIDE='Mizar (Blaziken ★★★★★ ♀)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/blaziken.gif[/IMG]
+[B][SIZE=7]Mizar[/SIZE][/B] (Blaziken ♀)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Naughty[/SIZE][/B]  Nature ( +Attack, -Sp.Defense )
+ 
+[B]Items:[/B] Cleanse Tag or Blazikenite
+ 
+[B]Typing:[/B] Fire/Fighting
+[B]Ability:[/B] Speed Boost
+  
+[B]HP:[/B] 90
+[B]Attack:[/B] 10 (+)
+[B]Defen.:[/B] 5
+[B]Sp.Atk:[/B] 8
+[B]Sp.Def:[/B] 4 (-)
+[B]Speed:[/B] 80
+[SIZE=3][B]Size Class:[/B] 3
+[B]Weight Class:[/B] 4[/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Acrobatics
+Aerial Ace
+Agility
+Assurance
+Attract
+Aura Sphere
+Baton Pass
+Blast Burn
+Blaze Kick
+Body Slam
+Bounce
+Brave Bird
+Brick Break
+Bulk Up
+Bulldoze
+Captivate
+Close Combat
+Coaching
+Confide
+Counter
+Crush Claw
+Curse
+Cut
+Defog
+Detect
+Dig
+Double Kick
+Double Team
+Double-Edge
+Dual Chop
+Dynamic Punch
+Earthquake
+Echoed Voice
+Ember
+Endure
+Facade
+Feather Dance
+Feint
+Fire Blast
+Fire Pledge
+Fire Punch
+Fire Spin
+Flame Burst
+Flame Charge
+Flamethrower
+Flare Blitz
+Fling
+Focus Blast
+Focus Energy
+Focus Punch
+Frustration
+Fury Cutter
+Giga Impact
+Growl
+Headbutt
+Heat Crash
+Heat Wave
+Helping Hand
+Hidden Power [Electric]
+High Jump Kick
+Hone Claws
+Hyper Beam
+Incinerate
+Knock Off
+Laser Focus
+Last Resort
+Low Kick
+Low Sweep
+Mega Kick
+Mega Punch
+Mimic
+Mirror Move
+Mud-Slap
+Natural Gift
+Night Slash
+Overheat
+Peck
+Poison Jab
+Power-Up Punch
+Protect
+Quick Attack
+Rest
+Return
+Revenge
+Reversal
+Roar
+Rock Climb
+Rock Slide
+Rock Smash
+Rock Tomb
+Role Play
+Round
+Sand Attack
+Scorching Sands
+Scratch
+Secret Power
+Seismic Toss
+Shadow Claw
+Sky Uppercut
+Slash
+Sleep Talk
+Smelling Salts
+Snore
+Solar Beam
+Stone Edge
+Strength
+Substitute
+Sunny Day
+Superpower
+Swagger
+Swift
+Swords Dance
+Thunder Punch
+Toxic
+U-turn
+Vacuum Wave
+Will-O-Wisp
+Work Up
+[/HIDE][HIDE='Dubhe (Polteageist ★★★★★ ♂)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/polteageist.gif[/IMG]
+[B][SIZE=7]Dubhe[/SIZE][/B] (Polteageist ♂)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Modest[/SIZE][/B]  Nature ( +Sp.Attack, -Attack )
+ 
+[B]Items:[/B] Choice Specs or Rocky Helmet
+ 
+[B]Typing:[/B] Ghost
+[B]Ability:[/B] Cursed Body
+  
+[B]HP:[/B] 85
+[B]Attack:[/B] 4 (-)
+[B]Defen.:[/B] 5
+[B]Sp.Atk:[/B] 10 (+)
+[B]Sp.Def:[/B] 8
+[B]Speed:[/B] 70
+[SIZE=3][B]Size Class:[/B] 1
+[B]Weight Class:[/B] 1[/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Ally Switch
+Aromatherapy
+Aromatic Mist
+Astonish
+Baton Pass
+Curse
+Dark Pulse
+Endure
+Facade
+Foul Play
+Giga Drain
+Giga Impact
+Hex
+Hyper Beam
+Imprison
+Light Screen
+Mega Drain
+Memento
+Metronome
+Nasty Plot
+Payback
+Phantom Force
+Poltergeist
+Protect
+Psychic
+Psyshock
+Reflect
+Rest
+Round
+Self-Destruct
+Shadow Ball
+Shell Smash
+Sleep Talk
+Snore
+Stored Power
+Strength Sap
+Substitute
+Sucker Punch
+Teatime
+Trick
+Will-O-Wisp
+Withdraw
+Wonder Room
+[/HIDE]
