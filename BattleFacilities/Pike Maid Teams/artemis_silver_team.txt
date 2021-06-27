@@ -1,0 +1,659 @@
+[HIDE='Palladium (Aggron ★★★★★ ♀)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/aggron.gif[/IMG][IMG]http://play.pokemonshowdown.com/sprites/xyani/aggron-mega.gif[/IMG]
+[B][SIZE=7]Palladium[/SIZE][/B] (Aggron ♀)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Careful[/SIZE][/B]  Nature ( +Sp.Defense, -Sp.Attack )
+ 
+[B]Items:[/B] Cleanse Tag or Aggronite
+ 
+[B]Typing:[/B] Steel/Rock [COLOR=#b3b300]—— Steel[/COLOR]
+[B]Ability:[/B] Sturdy
+  
+[B]HP:[/B] 85 [COLOR=#b3b300]—— MEGA[/COLOR]
+[B]Attack:[/B] 8 [COLOR=#b3b300]—— 10[/COLOR]
+[B]Defen.:[/B] 13 [COLOR=#b3b300]—— 15[/COLOR]
+[B]Sp.Atk:[/B] 4 [COLOR=#b3b300]—— 4[/COLOR] (-)
+[B]Sp.Def:[/B] 7 [COLOR=#b3b300]—— 8[/COLOR] (+)
+[B]Speed:[/B] 50 [COLOR=#b3b300]—— 50[/COLOR]
+[SIZE=3][B]Size Class:[/B] 4 [COLOR=#b3b300]— 4[/COLOR]
+[B]Weight Class:[/B] 8 [COLOR=#b3b300]— 8[/COLOR][/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Aerial Ace
+Ancient Power
+Aqua Tail
+Attract
+Autotomize
+Avalanche
+Blizzard
+Block
+Body Press
+Body Slam
+Brick Break
+Brutal Swing
+Bulldoze
+Captivate
+Confide
+Counter
+Crunch
+Curse
+Cut
+Dark Pulse
+Defense Curl
+Dig
+Double Team
+Double-Edge
+Dragon Claw
+Dragon Pulse
+Dragon Rush
+Dragon Tail
+Dynamic Punch
+Earth Power
+Earthquake
+Endeavor
+Endure
+Facade
+Fire Blast
+Fire Punch
+Flamethrower
+Flash Cannon
+Fling
+Focus Blast
+Focus Punch
+Frustration
+Fury Cutter
+Giga Impact
+Harden
+Head Smash
+Headbutt
+Heavy Slam
+Hidden Power [Fairy]
+High Horsepower
+Hone Claws
+Hydro Pump
+Hyper Beam
+Ice Beam
+Ice Punch
+Icy Wind
+Incinerate
+Iron Defense
+Iron Head
+Iron Tail
+Low Kick
+Magnet Rise
+Mega Kick
+Mega Punch
+Metal Burst
+Metal Claw
+Metal Sound
+Meteor Beam
+Mimic
+Mud-Slap
+Natural Gift
+Outrage
+Payback
+Power-Up Punch
+Protect
+Rain Dance
+Rest
+Return
+Reversal
+Roar
+Rock Blast
+Rock Climb
+Rock Polish
+Rock Slide
+Rock Smash
+Rock Tomb
+Rollout
+Round
+Sand Tomb
+Sandstorm
+Scary Face
+Screech
+Secret Power
+Seismic Toss
+Shadow Claw
+Shock Wave
+Sleep Talk
+Smack Down
+Smart Strike
+Smelling Salts
+Snore
+Solar Beam
+Spite
+Stealth Rock
+Steel Beam
+Steel Roller
+Stomp
+Stomping Tantrum
+Stone Edge
+Strength
+Substitute
+Sunny Day
+Superpower
+Surf
+Swagger
+Tackle
+Take Down
+Taunt
+Thunder
+Thunder Punch
+Thunder Wave
+Thunderbolt
+Toxic
+Uproar
+Water Pulse
+Whirlpool
+[/HIDE][HIDE='Mercury (Swampert ★★★★★ ♀)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/swampert.gif[/IMG][IMG]http://play.pokemonshowdown.com/sprites/xyani/swampert-mega.gif[/IMG]
+[B][SIZE=7]Mercury[/SIZE][/B] (Swampert ♀)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Adamant[/SIZE][/B]  Nature ( +Attack, -Sp.Attack )
+ 
+[B]Items:[/B] Rindo Berry or Swampertite
+ 
+[B]Typing:[/B] Water/Ground [COLOR=#b3b300]—— Water/Ground[/COLOR]
+[B]Ability:[/B] Torrent
+  
+[B]HP:[/B] 95 [COLOR=#b3b300]—— MEGA[/COLOR]
+[B]Attack:[/B] 9 [COLOR=#b3b300]—— 12[/COLOR] (+)
+[B]Defen.:[/B] 7 [COLOR=#b3b300]—— 8[/COLOR]
+[B]Sp.Atk:[/B] 5 [COLOR=#b3b300]—— 6[/COLOR] (-)
+[B]Sp.Def:[/B] 7 [COLOR=#b3b300]—— 8[/COLOR]
+[B]Speed:[/B] 60 [COLOR=#b3b300]—— 70[/COLOR]
+[SIZE=3][B]Size Class:[/B] 3 [COLOR=#b3b300]— 3[/COLOR]
+[B]Weight Class:[/B] 4 [COLOR=#b3b300]— 5[/COLOR][/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Amnesia
+Ancient Power
+Aqua Tail
+Attract
+Avalanche
+Barrier
+Bide
+Bite
+Blizzard
+Body Press
+Body Slam
+Brick Break
+Bulk Up
+Bulldoze
+Captivate
+Confide
+Counter
+Curse
+Darkest Lariat
+Defense Curl
+Dig
+Dive
+Double Team
+Double-Edge
+Dynamic Punch
+Earth Power
+Earthquake
+Echoed Voice
+Endeavor
+Endure
+Facade
+Fling
+Flip Turn
+Focus Blast
+Focus Punch
+Foresight
+Frustration
+Giga Impact
+Growl
+Hail
+Hammer Arm
+Headbutt
+Hidden Power [Grass]
+High Horsepower
+Hydro Cannon
+Hydro Pump
+Hyper Beam
+Ice Ball
+Ice Beam
+Ice Punch
+Icy Wind
+Iron Tail
+Liquidation
+Low Kick
+Mega Kick
+Mega Punch
+Mimic
+Mirror Coat
+Mud Bomb
+Mud Shot
+Mud Sport
+Mud-Slap
+Muddy Water
+Natural Gift
+Outrage
+Power-Up Punch
+Protect
+Rain Dance
+Refresh
+Rest
+Return
+Roar
+Rock Climb
+Rock Slide
+Rock Smash
+Rock Throw
+Rock Tomb
+Rollout
+Round
+Sand Tomb
+Scald
+Screech
+Secret Power
+Seismic Toss
+Sleep Talk
+Sludge
+Sludge Wave
+Snore
+Stealth Rock
+Stomp
+Stomping Tantrum
+Stone Edge
+Strength
+Substitute
+Superpower
+Supersonic
+Surf
+Swagger
+Tackle
+Take Down
+Toxic
+Uproar
+Water Gun
+Water Pledge
+Water Pulse
+Waterfall
+Whirlpool
+Wide Guard
+Work Up
+Yawn
+[/HIDE][HIDE='Arsenic (Venusaur ★★★★★ ♀)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/venusaur.gif[/IMG][IMG]http://play.pokemonshowdown.com/sprites/xyani/venusaur-mega.gif[/IMG]
+[B][SIZE=7]Arsenic[/SIZE][/B] (Venusaur ♀)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Quiet[/SIZE][/B]  Nature ( +Sp.Attack, -Speed, -10% Evasion )
+ 
+[B]Items:[/B] Leftovers or Venusaurite
+ 
+[B]Typing:[/B] Grass/Poison [COLOR=#b3b300]—— Grass/Poison[/COLOR]
+[B]Ability:[/B] Chlorophyll
+  
+[B]HP:[/B] 90 [COLOR=#b3b300]—— MEGA[/COLOR]
+[B]Attack:[/B] 6 [COLOR=#b3b300]—— 7[/COLOR]
+[B]Defen.:[/B] 6 [COLOR=#b3b300]—— 9[/COLOR]
+[B]Sp.Atk:[/B] 8 [COLOR=#b3b300]—— 10[/COLOR] (+)
+[B]Sp.Def:[/B] 7 [COLOR=#b3b300]—— 9[/COLOR]
+[B]Speed:[/B] 69 [COLOR=#b3b300]—— 69[/COLOR] (-)
+[SIZE=3][B]Size Class:[/B] 4 [COLOR=#b3b300]— 5[/COLOR]
+[B]Weight Class:[/B] 4 [COLOR=#b3b300]— 5[/COLOR][/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Amnesia
+Attract
+Bide
+Bind
+Block
+Body Slam
+Bulldoze
+Bullet Seed
+Captivate
+Celebrate
+Charm
+Confide
+Curse
+Cut
+Defense Curl
+Double Team
+Double-Edge
+Earth Power
+Earthquake
+Echoed Voice
+Endure
+Energy Ball
+Facade
+False Swipe
+Flash
+Frenzy Plant
+Frustration
+Fury Cutter
+Giga Drain
+Giga Impact
+Grass Knot
+Grass Pledge
+Grass Whistle
+Grassy Glide
+Grassy Terrain
+Growl
+Growth
+Headbutt
+Helping Hand
+Hidden Power [Fire]
+Hyper Beam
+Ingrain
+Knock Off
+Leaf Storm
+Leech Seed
+Light Screen
+Magical Leaf
+Mega Drain
+Mimic
+Mud-Slap
+Natural Gift
+Nature Power
+Outrage
+Petal Blizzard
+Petal Dance
+Poison Powder
+Power Whip
+Protect
+Rage
+Razor Leaf
+Razor Wind
+Reflect
+Rest
+Return
+Roar
+Rock Climb
+Rock Smash
+Round
+Safeguard
+Secret Power
+Seed Bomb
+Skull Bash
+Sleep Powder
+Sleep Talk
+Sludge
+Sludge Bomb
+Snore
+Solar Beam
+Stomping Tantrum
+Strength
+String Shot
+Substitute
+Sunny Day
+Swagger
+Sweet Scent
+Swords Dance
+Synthesis
+Tackle
+Take Down
+Terrain Pulse
+Toxic
+Venoshock
+Vine Whip
+Weather Ball
+Work Up
+Worry Seed
+[/HIDE][HIDE='Bismuth (Nidoking ★★★★★ ♂)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/nidoking.gif[/IMG]
+[B][SIZE=7]Bismuth[/SIZE][/B] (Nidoking ♂)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Quiet[/SIZE][/B]  Nature ( +Sp.Attack, -Speed, -10% Evasion )
+ 
+[B]Items:[/B] Life Orb or Expert Belt
+ 
+[B]Typing:[/B] Poison/Ground
+[B]Ability:[/B] Sheer Force
+  
+[B]HP:[/B] 90
+[B]Attack:[/B] 7
+[B]Defen.:[/B] 6
+[B]Sp.Atk:[/B] 7 (+)
+[B]Sp.Def:[/B] 6
+[B]Speed:[/B] 73 (-)
+[SIZE=3][B]Size Class:[/B] 3
+[B]Weight Class:[/B] 4[/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Amnesia
+Aqua Tail
+Attract
+Avalanche
+Beat Up
+Bide
+Blizzard
+Body Press
+Body Slam
+Brick Break
+Bubble Beam
+Bulldoze
+Captivate
+Chip Away
+Confide
+Confusion
+Counter
+Curse
+Cut
+Defense Curl
+Detect
+Dig
+Disable
+Double Kick
+Double Team
+Double-Edge
+Dragon Pulse
+Dragon Tail
+Drill Run
+Dynamic Punch
+Earth Power
+Earthquake
+Echoed Voice
+Endure
+Facade
+Fire Blast
+Fire Punch
+Fissure
+Flamethrower
+Flatter
+Fling
+Focus Blast
+Focus Energy
+Focus Punch
+Frustration
+Fury Attack
+Fury Cutter
+Giga Impact
+Head Smash
+Headbutt
+Helping Hand
+Hex
+Hidden Power [Fairy]
+High Horsepower
+Hone Claws
+Horn Attack
+Horn Drill
+Hyper Beam
+Ice Beam
+Ice Punch
+Icy Wind
+Incinerate
+Iron Tail
+Leer
+Mega Kick
+Mega Punch
+Megahorn
+Mimic
+Mud Shot
+Mud-Slap
+Natural Gift
+Outrage
+Pay Day
+Peck
+Poison Jab
+Poison Sting
+Poison Tail
+Power-Up Punch
+Protect
+Quash
+Rage
+Rain Dance
+Reflect
+Rest
+Return
+Roar
+Rock Blast
+Rock Climb
+Rock Slide
+Rock Smash
+Rock Tomb
+Round
+Sand Tomb
+Sandstorm
+Scorching Sands
+Secret Power
+Seismic Toss
+Shadow Ball
+Shadow Claw
+Shock Wave
+Skull Bash
+Sleep Talk
+Sludge Bomb
+Sludge Wave
+Smack Down
+Smart Strike
+Snore
+Stealth Rock
+Stomping Tantrum
+Stone Edge
+Strength
+Submission
+Substitute
+Sucker Punch
+Sunny Day
+Super Fang
+Superpower
+Supersonic
+Surf
+Swagger
+Tackle
+Take Down
+Taunt
+Thief
+Thrash
+Throat Chop
+Thunder
+Thunder Punch
+Thunderbolt
+Torment
+Toxic
+Toxic Spikes
+Uproar
+Venom Drench
+Venoshock
+Water Gun
+Water Pulse
+Whirlpool
+[/HIDE][HIDE='Gallium (Haxorus ★★★★★ ♀)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/haxorus.gif[/IMG]
+[B][SIZE=7]Gallium[/SIZE][/B] (Haxorus ♀)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Adamant[/SIZE][/B]  Nature ( +Attack, -Sp.Attack )
+ 
+[B]Items:[/B] Draco Plate or Muscle Band
+ 
+[B]Typing:[/B] Dragon
+[B]Ability:[/B] Mold Breaker
+  
+[B]HP:[/B] 90
+[B]Attack:[/B] 11 (+)
+[B]Defen.:[/B] 7
+[B]Sp.Atk:[/B] 4 (-)
+[B]Sp.Def:[/B] 5
+[B]Speed:[/B] 97
+[SIZE=3][B]Size Class:[/B] 3
+[B]Weight Class:[/B] 5[/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Aerial Ace
+Aqua Tail
+Assurance
+Attract
+Bite
+Breaking Swipe
+Brick Break
+Brutal Swing
+Bulldoze
+Close Combat
+Confide
+Counter
+Crunch
+Cut
+Dig
+Double Team
+Draco Meteor
+Dragon Claw
+Dragon Dance
+Dragon Pulse
+Dragon Rage
+Dragon Tail
+Dual Chop
+Earthquake
+Endeavor
+Endure
+Facade
+False Swipe
+First Impression
+Fling
+Focus Blast
+Focus Energy
+Frustration
+Giga Impact
+Grass Knot
+Guillotine
+Harden
+Hidden Power [Grass]
+Hone Claws
+Hyper Beam
+Incinerate
+Iron Tail
+Laser Focus
+Leer
+Low Kick
+Night Slash
+Outrage
+Payback
+Poison Jab
+Protect
+Psycho Cut
+Rain Dance
+Razor Wind
+Rest
+Return
+Reversal
+Roar
+Rock Slide
+Rock Smash
+Rock Tomb
+Round
+Scale Shot
+Scary Face
+Scratch
+Secret Power
+Shadow Claw
+Shock Wave
+Slash
+Sleep Talk
+Snarl
+Snore
+Stomping Tantrum
+Strength
+Substitute
+Sunny Day
+Superpower
+Surf
+Swagger
+Swift
+Swords Dance
+Taunt
+Toxic
+X-Scissor
+[/HIDE]
