@@ -1,0 +1,689 @@
+[HIDE='Adam (Glalie ★★★★★ ♂)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/glalie.gif[/IMG][IMG]http://play.pokemonshowdown.com/sprites/xyani/glalie-mega.gif[/IMG]
+[B][SIZE=7]Adam[/SIZE][/B] (Glalie ♂)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Quiet[/SIZE][/B]  Nature ( +Sp.Attack, -Speed, -10% Evasion )
+ 
+[B]Items:[/B] Barometer or Glalitite
+ 
+[B]Typing:[/B] Ice [COLOR=#b3b300]—— Ice[/COLOR]
+[B]Ability:[/B] Ice Body
+  
+[B]HP:[/B] 90 [COLOR=#b3b300]—— MEGA[/COLOR]
+[B]Attack:[/B] 6 [COLOR=#b3b300]—— 9[/COLOR]
+[B]Defen.:[/B] 6 [COLOR=#b3b300]—— 6[/COLOR]
+[B]Sp.Atk:[/B] 7 [COLOR=#b3b300]—— 10[/COLOR] (+)
+[B]Sp.Def:[/B] 6 [COLOR=#b3b300]—— 6[/COLOR]
+[B]Speed:[/B] 69 [COLOR=#b3b300]—— 86[/COLOR] (-)
+[SIZE=3][B]Size Class:[/B] 3 [COLOR=#b3b300]— 4[/COLOR]
+[B]Weight Class:[/B] 6 [COLOR=#b3b300]— 8[/COLOR][/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Astonish
+Attract
+Avalanche
+Bide
+Bite
+Blizzard
+Block
+Body Slam
+Bulldoze
+Captivate
+Confide
+Crunch
+Dark Pulse
+Defense Curl
+Disable
+Double Team
+Double-Edge
+Earthquake
+Endure
+Explosion
+Facade
+Fake Tears
+Flash
+Freeze-Dry
+Frost Breath
+Frustration
+Giga Impact
+Gyro Ball
+Hail
+Headbutt
+Hex
+Hidden Power [Rock]
+Hyper Beam
+Ice Beam
+Ice Fang
+Ice Shard
+Icicle Crash
+Icicle Spear
+Icy Wind
+Iron Head
+Laser Focus
+Leer
+Light Screen
+Mimic
+Natural Gift
+Payback
+Powder Snow
+Protect
+Rain Dance
+Rest
+Return
+Rollout
+Round
+Safeguard
+Scary Face
+Secret Power
+Self-Destruct
+Shadow Ball
+Sheer Cold
+Signal Beam
+Sing
+Sleep Talk
+Snore
+Spikes
+Spite
+Steel Roller
+Substitute
+Super Fang
+Swagger
+Switcheroo
+Taunt
+Torment
+Toxic
+Water Pulse
+Weather Ball
+[/HIDE][HIDE='Bert (Golem-Alola ★★★★★ ♂)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/golem-alola.gif[/IMG]
+[B][SIZE=7]Bert[/SIZE][/B] (Golem-Alola ♂)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Careful[/SIZE][/B]  Nature ( +Sp.Defense, -Sp.Attack )
+ 
+[B]Items:[/B] Electric Gem or Air Balloon
+ 
+[B]Typing:[/B] Rock/Electric
+[B]Ability:[/B] Galvanize
+  
+[B]HP:[/B] 90
+[B]Attack:[/B] 9
+[B]Defen.:[/B] 9
+[B]Sp.Atk:[/B] 3 (-)
+[B]Sp.Def:[/B] 7 (+)
+[B]Speed:[/B] 45
+[SIZE=3][B]Size Class:[/B] 3
+[B]Weight Class:[/B] 7[/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Ally Switch
+Attract
+Autotomize
+Bide
+Block
+Brick Break
+Brutal Swing
+Bulldoze
+Charge
+Charge Beam
+Confide
+Counter
+Curse
+Defense Curl
+Dig
+Discharge
+Double Team
+Double-Edge
+Earth Power
+Earthquake
+Echoed Voice
+Electroweb
+Endure
+Explosion
+Facade
+Fire Blast
+Fire Punch
+Flail
+Flamethrower
+Fling
+Focus Blast
+Focus Punch
+Frustration
+Giga Impact
+Gyro Ball
+Headbutt
+Heavy Slam
+Hidden Power [Ice]
+Hyper Beam
+Iron Defense
+Iron Head
+Magnet Rise
+Mega Punch
+Nature Power
+Protect
+Rest
+Return
+Roar
+Rock Blast
+Rock Climb
+Rock Polish
+Rock Slide
+Rock Throw
+Rock Tomb
+Rollout
+Round
+Sandstorm
+Screech
+Seismic Toss
+Self-Destruct
+Shock Wave
+Sleep Talk
+Smack Down
+Snore
+Spark
+Stealth Rock
+Steamroller
+Stomping Tantrum
+Stone Edge
+Substitute
+Sunny Day
+Superpower
+Swagger
+Tackle
+Take Down
+Thunder
+Thunder Punch
+Thunder Shock
+Thunder Wave
+Thunderbolt
+Toxic
+Volt Switch
+Wide Guard
+Wild Charge
+[/HIDE][HIDE='Tom (Weezing-Galar ★★★★★ ♂)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/weezing-galar.gif[/IMG]
+[B][SIZE=7]Tom[/SIZE][/B] (Weezing-Galar ♂)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Quiet[/SIZE][/B]  Nature ( +Sp.Attack, -Speed, -10% Evasion )
+ 
+[B]Items:[/B] Rocky Helmet or Weakness Policy
+ 
+[B]Typing:[/B] Poison/Fairy
+[B]Ability:[/B] Misty Surge
+  
+[B]HP:[/B] 85
+[B]Attack:[/B] 7
+[B]Defen.:[/B] 9
+[B]Sp.Atk:[/B] 7 (+)
+[B]Sp.Def:[/B] 5
+[B]Speed:[/B] 52 (-)
+[SIZE=3][B]Size Class:[/B] 5
+[B]Weight Class:[/B] 2[/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Aromatherapy
+Aromatic Mist
+Assurance
+Attract
+Belch
+Bide
+Brutal Swing
+Captivate
+Clear Smog
+Confide
+Corrosive Gas
+Curse
+Dark Pulse
+Dazzling Gleam
+Defog
+Destiny Bond
+Double Hit
+Double Team
+Endure
+Explosion
+Facade
+Fairy Wind
+Fire Blast
+Flamethrower
+Flash
+Frustration
+Giga Impact
+Grudge
+Gyro Ball
+Haze
+Headbutt
+Heat Wave
+Hidden Power [Ground]
+Hyper Beam
+Incinerate
+Infestation
+Memento
+Mimic
+Misty Explosion
+Misty Terrain
+Natural Gift
+Overheat
+Pain Split
+Payback
+Play Rough
+Poison Gas
+Protect
+Psybeam
+Psywave
+Rage
+Rain Dance
+Rest
+Return
+Rollout
+Round
+Screech
+Secret Power
+Self-Destruct
+Shadow Ball
+Shock Wave
+Sleep Talk
+Sludge
+Sludge Bomb
+Sludge Wave
+Smog
+Smokescreen
+Snore
+Spit Up
+Spite
+Stockpile
+Strange Steam
+Substitute
+Sunny Day
+Swagger
+Swallow
+Tackle
+Taunt
+Thief
+Thunder
+Thunderbolt
+Torment
+Toxic
+Toxic Spikes
+Uproar
+Venom Drench
+Venoshock
+Will-O-Wisp
+Wonder Room
+Zap Cannon
+[/HIDE][HIDE='Bess (Hatterene ★★★★★ ♀)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/hatterene.gif[/IMG]
+[B][SIZE=7]Bess[/SIZE][/B] (Hatterene ♀)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Quiet[/SIZE][/B]  Nature ( +Sp.Attack, -Speed, -10% Evasion )
+ 
+[B]Items:[/B] Fairy Gem or Power Lens
+ 
+[B]Typing:[/B] Psychic/Fairy
+[B]Ability:[/B] Magic Bounce
+  
+[B]HP:[/B] 80
+[B]Attack:[/B] 7
+[B]Defen.:[/B] 7
+[B]Sp.Atk:[/B] 11 (+)
+[B]Sp.Def:[/B] 7
+[B]Speed:[/B] 25 (-)
+[SIZE=3][B]Size Class:[/B] 4
+[B]Weight Class:[/B] 1[/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+After You
+Aromatherapy
+Aromatic Mist
+Attract
+Baton Pass
+Brutal Swing
+Calm Mind
+Charm
+Confusion
+Dark Pulse
+Dazzling Gleam
+Disarming Voice
+Draining Kiss
+Endure
+Expanding Force
+Facade
+Future Sight
+Giga Drain
+Giga Impact
+Guard Swap
+Heal Pulse
+Healing Wish
+Helping Hand
+Hyper Beam
+Imprison
+Life Dew
+Light Screen
+Magic Powder
+Magic Room
+Magical Leaf
+Misty Explosion
+Mystical Fire
+Nuzzle
+Play Nice
+Play Rough
+Power Swap
+Power Whip
+Protect
+Psybeam
+Psychic
+Psycho Cut
+Psyshock
+Quash
+Rest
+Round
+Safeguard
+Shadow Ball
+Shadow Claw
+Skill Swap
+Sleep Talk
+Snore
+Stored Power
+Substitute
+Swords Dance
+Thunder Wave
+Trick Room
+Wonder Room
+[/HIDE][HIDE='Kent (Metagross ★★★★★ ф)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/metagross.gif[/IMG][IMG]http://play.pokemonshowdown.com/sprites/xyani/metagross-mega.gif[/IMG]
+[B][SIZE=7]Kent[/SIZE][/B] (Metagross ф)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Careful[/SIZE][/B]  Nature ( +Sp.Defense, -Sp.Attack )
+ 
+[B]Items:[/B] Muscle Band or Focus Sash
+ 
+[B]Typing:[/B] Steel/Psychic [COLOR=#b3b300]—— Steel/Psychic[/COLOR]
+[B]Ability:[/B] Clear Body
+  
+[B]HP:[/B] 90 [COLOR=#b3b300]—— MEGA[/COLOR]
+[B]Attack:[/B] 10 [COLOR=#b3b300]—— 10[/COLOR]
+[B]Defen.:[/B] 9 [COLOR=#b3b300]—— 11[/COLOR]
+[B]Sp.Atk:[/B] 6 [COLOR=#b3b300]—— 7[/COLOR] (-)
+[B]Sp.Def:[/B] 9 [COLOR=#b3b300]—— 10[/COLOR] (+)
+[B]Speed:[/B] 70 [COLOR=#b3b300]—— 110[/COLOR]
+[SIZE=3][B]Size Class:[/B] 4 [COLOR=#b3b300]— 4[/COLOR]
+[B]Weight Class:[/B] 9 [COLOR=#b3b300]— 11[/COLOR][/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Aerial Ace
+Agility
+Ally Switch
+Block
+Body Press
+Body Slam
+Brick Break
+Brutal Swing
+Bulldoze
+Bullet Punch
+Confide
+Confusion
+Cosmic Power
+Cut
+Defense Curl
+Double Team
+Double-Edge
+Dynamic Punch
+Earthquake
+Endure
+Expanding Force
+Explosion
+Facade
+Flash
+Flash Cannon
+Frustration
+Fury Cutter
+Giga Impact
+Grass Knot
+Gravity
+Gyro Ball
+Hammer Arm
+Headbutt
+Hidden Power [Fire]
+Hold Back
+Hone Claws
+Hyper Beam
+Ice Punch
+Icy Wind
+Iron Defense
+Iron Head
+Laser Focus
+Light Screen
+Magnet Rise
+Metal Claw
+Meteor Beam
+Meteor Mash
+Mimic
+Miracle Eye
+Mud-Slap
+Natural Gift
+Power-Up Punch
+Protect
+Psych Up
+Psychic
+Psycho Cut
+Psyshock
+Pursuit
+Rain Dance
+Reflect
+Refresh
+Rest
+Return
+Rock Polish
+Rock Slide
+Rock Smash
+Rock Tomb
+Rollout
+Round
+Sandstorm
+Scary Face
+Secret Power
+Self-Destruct
+Shadow Ball
+Signal Beam
+Sleep Talk
+Sludge Bomb
+Snore
+Stealth Rock
+Steel Beam
+Steel Roller
+Stomping Tantrum
+Strength
+Substitute
+Sunny Day
+Swagger
+Swift
+Tackle
+Take Down
+Telekinesis
+Thunder Punch
+Toxic
+Trick
+Zen Headbutt
+[/HIDE][HIDE='Jane (Celesteela ★★★★★ ф)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/celesteela.gif[/IMG]
+[B][SIZE=7]Jane[/SIZE][/B] (Celesteela ф)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Quiet[/SIZE][/B]  Nature ( +Sp.Attack, -Speed, -10% Evasion )
+ 
+[B]Items:[/B] Expert Belt or Leftovers
+ 
+[B]Typing:[/B] Steel/Flying
+[B]Ability:[/B] Beast Boost
+  
+[B]HP:[/B] 95
+[B]Attack:[/B] 7
+[B]Defen.:[/B] 7
+[B]Sp.Atk:[/B] 9 (+)
+[B]Sp.Def:[/B] 7
+[B]Speed:[/B] 53 (-)
+[SIZE=3][B]Size Class:[/B] 7
+[B]Weight Class:[/B] 12[/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Absorb
+Acrobatics
+Air Slash
+Autotomize
+Block
+Body Slam
+Brutal Swing
+Bulldoze
+Confide
+Double Team
+Double-Edge
+Earthquake
+Endure
+Energy Ball
+Explosion
+Facade
+Fire Blast
+Flame Charge
+Flamethrower
+Flash Cannon
+Fly
+Frustration
+Giga Drain
+Giga Impact
+Grass Knot
+Gravity
+Gyro Ball
+Harden
+Heavy Slam
+Hidden Power [Electric]
+Hyper Beam
+Ingrain
+Iron Defense
+Iron Head
+Leech Seed
+Magnet Rise
+Mega Drain
+Megahorn
+Metal Sound
+Meteor Beam
+Protect
+Rest
+Return
+Rock Slide
+Round
+Seed Bomb
+Self-Destruct
+Shock Wave
+Skull Bash
+Sleep Talk
+Smack Down
+Smart Strike
+Snore
+Solar Beam
+Steel Beam
+Steel Roller
+Stomping Tantrum
+Stone Edge
+Substitute
+Superpower
+Swagger
+Tackle
+Toxic
+Wide Guard
+Zen Headbutt
+[/HIDE][HIDE='Joe (Heatran ★★★★★ ♂)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/heatran.gif[/IMG]
+[B][SIZE=7]Joe[/SIZE][/B] (Heatran ♂)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Modest[/SIZE][/B]  Nature ( +Sp.Attack, -Attack )
+ 
+[B]Items:[/B] Wise Glasses or Air Balloon
+ 
+[B]Typing:[/B] Fire/Steel
+[B]Ability:[/B] Flame Body
+  
+[B]HP:[/B] 95
+[B]Attack:[/B] 6 (-)
+[B]Defen.:[/B] 8
+[B]Sp.Atk:[/B] 10 (+)
+[B]Sp.Def:[/B] 8
+[B]Speed:[/B] 77
+[SIZE=3][B]Size Class:[/B] 4
+[B]Weight Class:[/B] 8[/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Ancient Power
+Attract
+Body Press
+Body Slam
+Bug Bite
+Bulldoze
+Burning Jealousy
+Captivate
+Confide
+Crunch
+Dark Pulse
+Dig
+Double Team
+Dragon Pulse
+Earth Power
+Earthquake
+Endure
+Eruption
+Explosion
+Facade
+Fire Blast
+Fire Fang
+Fire Spin
+Flame Charge
+Flamethrower
+Flash Cannon
+Frustration
+Giga Impact
+Headbutt
+Heat Crash
+Heat Wave
+Heavy Slam
+Hidden Power [Ice]
+Hyper Beam
+Incinerate
+Iron Defense
+Iron Head
+Lava Plume
+Leer
+Magma Storm
+Metal Claw
+Metal Sound
+Mud-Slap
+Natural Gift
+Nature Power
+Overheat
+Payback
+Protect
+Rest
+Return
+Roar
+Rock Climb
+Rock Slide
+Rock Smash
+Rock Tomb
+Round
+Scary Face
+Scorching Sands
+Secret Power
+Self-Destruct
+Sleep Talk
+Snore
+Solar Beam
+Stealth Rock
+Steel Beam
+Steel Roller
+Stomping Tantrum
+Stone Edge
+Strength
+Substitute
+Sunny Day
+Swagger
+Taunt
+Torment
+Toxic
+Uproar
+Will-O-Wisp
+[/HIDE]

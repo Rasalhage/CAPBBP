@@ -1,0 +1,324 @@
+[HIDE='Horns (Houndoom ★★★★★ ♀)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/houndoom.gif[/IMG][IMG]http://play.pokemonshowdown.com/sprites/xyani/houndoom-mega.gif[/IMG]
+[B][SIZE=7]Horns[/SIZE][/B] (Houndoom ♀)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Timid[/SIZE][/B]  Nature ( +Speed, -Attack, +10% Accuracy [COLOR=#b3b300]— +% MEGA[/COLOR] )
+ 
+[B]Items:[/B] Wise Glasses or Houndoominite
+ 
+[B]Typing:[/B] Dark/Fire [COLOR=#b3b300]—— Dark/Fire[/COLOR]
+[B]Ability:[/B] Unnerve
+  
+[B]HP:[/B] 90 [COLOR=#b3b300]—— MEGA[/COLOR]
+[B]Attack:[/B] 6 [COLOR=#b3b300]—— 6[/COLOR] (-)
+[B]Defen.:[/B] 4 [COLOR=#b3b300]—— 7[/COLOR]
+[B]Sp.Atk:[/B] 8 [COLOR=#b3b300]—— 10[/COLOR]
+[B]Sp.Def:[/B] 6 [COLOR=#b3b300]—— 7[/COLOR]
+[B]Speed:[/B] 110 [COLOR=#b3b300]—— 133[/COLOR] (+)
+[SIZE=3][B]Size Class:[/B] 3 [COLOR=#b3b300]— 4[/COLOR]
+[B]Weight Class:[/B] 3 [COLOR=#b3b300]— 4[/COLOR][/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Attract
+Beat Up
+Bite
+Body Slam
+Captivate
+Charm
+Confide
+Counter
+Crunch
+Curse
+Dark Pulse
+Destiny Bond
+Detect
+Double Team
+Double-Edge
+Dream Eater
+Embargo
+Ember
+Endure
+Facade
+Feint
+Feint Attack
+Fire Blast
+Fire Fang
+Fire Spin
+Flame Charge
+Flamethrower
+Foul Play
+Frustration
+Giga Impact
+Headbutt
+Heat Wave
+Hidden Power [Electric]
+Howl
+Hyper Beam
+Hyper Voice
+Incinerate
+Inferno
+Iron Tail
+Laser Focus
+Leer
+Mimic
+Mud-Slap
+Nasty Plot
+Natural Gift
+Nightmare
+Odor Sleuth
+Overheat
+Payback
+Protect
+Punishment
+Pursuit
+Rage
+Rest
+Retaliate
+Return
+Reversal
+Roar
+Rock Smash
+Role Play
+Round
+Secret Power
+Shadow Ball
+Sleep Talk
+Sludge Bomb
+Smog
+Snarl
+Snatch
+Snore
+Solar Beam
+Spite
+Strength
+Substitute
+Sucker Punch
+Sunny Day
+Super Fang
+Swagger
+Swift
+Taunt
+Thief
+Throat Chop
+Thunder Fang
+Torment
+Toxic
+Uproar
+Will-O-Wisp
+[/HIDE][HIDE='Duchess (Roserade ★★★★★ ♀)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/roserade.gif[/IMG]
+[B][SIZE=7]Duchess[/SIZE][/B] (Roserade ♀)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Modest[/SIZE][/B]  Nature ( +Sp.Attack, -Attack )
+ 
+[B]Items:[/B] Big Root or Rocky Helmet
+ 
+[B]Typing:[/B] Grass/Poison
+[B]Ability:[/B] Technician
+  
+[B]HP:[/B] 85
+[B]Attack:[/B] 4 (-)
+[B]Defen.:[/B] 5
+[B]Sp.Atk:[/B] 10 (+)
+[B]Sp.Def:[/B] 8
+[B]Speed:[/B] 90
+[SIZE=3][B]Size Class:[/B] 2
+[B]Weight Class:[/B] 2[/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Absorb
+Aromatherapy
+Attract
+Body Slam
+Bullet Seed
+Captivate
+Confide
+Cotton Spore
+Covet
+Cut
+Dazzling Gleam
+Double Team
+Double-Edge
+Endure
+Energy Ball
+Extrasensory
+Facade
+Flash
+Frustration
+Fury Cutter
+Giga Drain
+Giga Impact
+Grass Knot
+Grass Whistle
+Grassy Glide
+Grassy Terrain
+Growth
+Hidden Power [Water]
+Hyper Beam
+Ingrain
+Laser Focus
+Leaf Storm
+Leech Seed
+Life Dew
+Magical Leaf
+Mega Drain
+Mimic
+Mind Reader
+Mud-Slap
+Natural Gift
+Nature Power
+Nightmare
+Petal Blizzard
+Petal Dance
+Pin Missile
+Poison Jab
+Poison Sting
+Power Whip
+Protect
+Psych Up
+Rain Dance
+Razor Leaf
+Rest
+Return
+Round
+Secret Power
+Seed Bomb
+Shadow Ball
+Sleep Powder
+Sleep Talk
+Sludge Bomb
+Snore
+Solar Beam
+Spikes
+Stun Spore
+Substitute
+Sunny Day
+Swagger
+Sweet Kiss
+Sweet Scent
+Swift
+Swords Dance
+Synthesis
+Toxic
+Toxic Spikes
+Uproar
+Venom Drench
+Venoshock
+Water Sport
+Weather Ball
+Worry Seed
+[/HIDE][HIDE='Witch (Ninetales ★★★★★ ♀)']
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/ninetales.gif[/IMG]
+[B][SIZE=7]Witch[/SIZE][/B] (Ninetales ♀)
+[SIZE=6][B]★★★★★[/B][/SIZE]
+[B][SIZE=5]Modest[/SIZE][/B]  Nature ( +Sp.Attack, -Attack )
+ 
+[B]Items:[/B] Rocky Helmet or Charcoal
+ 
+[B]Typing:[/B] Fire
+[B]Ability:[/B] Drought
+  
+[B]HP:[/B] 85
+[B]Attack:[/B] 5 (-)
+[B]Defen.:[/B] 6
+[B]Sp.Atk:[/B] 7 (+)
+[B]Sp.Def:[/B] 7
+[B]Speed:[/B] 100
+[SIZE=3][B]Size Class:[/B] 2
+[B]Weight Class:[/B] 2[/SIZE]
+  
+[U][B][SIZE=5]Moves[/SIZE][/B][/U]
+Agility
+Attract
+Baby-Doll Eyes
+Bide
+Body Slam
+Burning Jealousy
+Calm Mind
+Captivate
+Charm
+Confide
+Confuse Ray
+Covet
+Curse
+Dark Pulse
+Dig
+Disable
+Double Team
+Double-Edge
+Dream Eater
+Ember
+Encore
+Endure
+Energy Ball
+Extrasensory
+Facade
+Fake Tears
+Feint Attack
+Fire Blast
+Fire Spin
+Flail
+Flame Burst
+Flame Charge
+Flamethrower
+Flare Blitz
+Foul Play
+Frustration
+Giga Impact
+Grudge
+Headbutt
+Heat Wave
+Hex
+Hidden Power [Ice]
+Howl
+Hyper Beam
+Hypnosis
+Imprison
+Incinerate
+Inferno
+Iron Tail
+Laser Focus
+Memento
+Mimic
+Mystical Fire
+Nasty Plot
+Natural Gift
+Ominous Wind
+Overheat
+Pain Split
+Payback
+Power Swap
+Protect
+Psych Up
+Psyshock
+Quick Attack
+Rage
+Reflect
+Rest
+Return
+Roar
+Role Play
+Round
+Safeguard
+Scorching Sands
+Secret Power
+Shadow Ball
+Skull Bash
+Sleep Talk
+Snore
+Solar Beam
+Spite
+Stored Power
+Substitute
+Sunny Day
+Swagger
+Swift
+Tackle
+Tail Slap
+Tail Whip
+Take Down
+Toxic
+Weather Ball
+Will-O-Wisp
+Zen Headbutt
+[/HIDE]
