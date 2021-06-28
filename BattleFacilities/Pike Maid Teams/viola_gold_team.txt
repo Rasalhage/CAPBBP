@@ -1,22 +1,22 @@
 [HIDE='Alkaid (Gardevoir ★★★★★ ♀)']
-[IMG]http://play.pokemonshowdown.com/sprites/xyani/gardevoir.gif[/IMG][IMG]http://play.pokemonshowdown.com/sprites/xyani/gardevoir-mega.gif[/IMG]
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/gardevoir.gif[/IMG]
 [B][SIZE=7]Alkaid[/SIZE][/B] (Gardevoir ♀)
 [SIZE=6][B]★★★★★[/B][/SIZE]
-[B][SIZE=5]Timid[/SIZE][/B]  Nature ( +Speed, -Attack, +10% Accuracy [COLOR=#b3b300]— +% MEGA[/COLOR] )
+[B][SIZE=5]Timid[/SIZE][/B]  Nature ( +Speed, -Attack, +10% Accuracy )
  
 [B]Items:[/B] Rocky Helmet or Gardevoirite
  
-[B]Typing:[/B] Psychic/Fairy [COLOR=#b3b300]—— Psychic/Fairy[/COLOR]
+[B]Typing:[/B] Psychic/Fairy
 [B]Ability:[/B] Trace
   
-[B]HP:[/B] 85 [COLOR=#b3b300]—— MEGA[/COLOR]
-[B]Attack:[/B] 4 [COLOR=#b3b300]—— 5[/COLOR] (-)
-[B]Defen.:[/B] 5 [COLOR=#b3b300]—— 5[/COLOR]
-[B]Sp.Atk:[/B] 9 [COLOR=#b3b300]—— 12[/COLOR]
-[B]Sp.Def:[/B] 8 [COLOR=#b3b300]—— 10[/COLOR]
-[B]Speed:[/B] 92 [COLOR=#b3b300]—— 115[/COLOR] (+)
-[SIZE=3][B]Size Class:[/B] 3 [COLOR=#b3b300]— 3[/COLOR]
-[B]Weight Class:[/B] 3 [COLOR=#b3b300]— 3[/COLOR][/SIZE]
+[B]HP:[/B] 85
+[B]Attack:[/B] 4 (-)
+[B]Defen.:[/B] 5
+[B]Sp.Atk:[/B] 9
+[B]Sp.Def:[/B] 8
+[B]Speed:[/B] 92 (+)
+[SIZE=3][B]Size Class:[/B] 3
+[B]Weight Class:[/B] 3[/SIZE]
   
 [U][B][SIZE=5]Moves[/SIZE][/B][/U]
 Ally Switch
@@ -135,24 +135,24 @@ Wish
 Wonder Room
 Zen Headbutt
 [/HIDE][HIDE='Mizar (Blaziken ★★★★★ ♀)']
-[IMG]http://play.pokemonshowdown.com/sprites/xyani/blaziken.gif[/IMG][IMG]http://play.pokemonshowdown.com/sprites/xyani/blaziken-mega.gif[/IMG]
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/blaziken.gif[/IMG]
 [B][SIZE=7]Mizar[/SIZE][/B] (Blaziken ♀)
 [SIZE=6][B]★★★★★[/B][/SIZE]
 [B][SIZE=5]Naughty[/SIZE][/B]  Nature ( +Attack, -Sp.Defense )
  
 [B]Items:[/B] Cleanse Tag or Blazikenite
  
-[B]Typing:[/B] Fire/Fighting [COLOR=#b3b300]—— Fire/Fighting[/COLOR]
+[B]Typing:[/B] Fire/Fighting
 [B]Ability:[/B] Speed Boost
   
-[B]HP:[/B] 90 [COLOR=#b3b300]—— MEGA[/COLOR]
-[B]Attack:[/B] 10 [COLOR=#b3b300]—— 12[/COLOR] (+)
-[B]Defen.:[/B] 5 [COLOR=#b3b300]—— 6[/COLOR]
-[B]Sp.Atk:[/B] 8 [COLOR=#b3b300]—— 9[/COLOR]
-[B]Sp.Def:[/B] 4 [COLOR=#b3b300]—— 5[/COLOR] (-)
-[B]Speed:[/B] 80 [COLOR=#b3b300]—— 100[/COLOR]
-[SIZE=3][B]Size Class:[/B] 3 [COLOR=#b3b300]— 3[/COLOR]
-[B]Weight Class:[/B] 4 [COLOR=#b3b300]— 4[/COLOR][/SIZE]
+[B]HP:[/B] 90
+[B]Attack:[/B] 10 (+)
+[B]Defen.:[/B] 5
+[B]Sp.Atk:[/B] 8
+[B]Sp.Def:[/B] 4 (-)
+[B]Speed:[/B] 80
+[SIZE=3][B]Size Class:[/B] 3
+[B]Weight Class:[/B] 4[/SIZE]
   
 [U][B][SIZE=5]Moves[/SIZE][/B][/U]
 Acrobatics
@@ -557,7 +557,7 @@ Water Sport
 Waterfall
 Work Up
 [/HIDE][HIDE='Merak (Shaymin-S ★★★★★ ф)']
-[IMG]http://play.pokemonshowdown.com/sprites/xyani/shaymin-s.gif[/IMG]
+[IMG]http://play.pokemonshowdown.com/sprites/xyani/shaymin-sky.gif[/IMG]
 [B][SIZE=7]Merak[/SIZE][/B] (Shaymin-S ф)
 [SIZE=6][B]★★★★★[/B][/SIZE]
 [B][SIZE=5]Timid[/SIZE][/B]  Nature ( +Speed, -Attack, +10% Accuracy )
