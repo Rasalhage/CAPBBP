@@ -1,6 +1,7 @@
 # CAPBBP File Repository
 Files hosted for Smogon CAP BBP.
 
+Pokemon and character designs and sprites are property of Nintendo. All original designs within are property of me.
 Use freely for any Pokemon-related hotlinking purposes.
 
 To access a sprite directly, go to  
